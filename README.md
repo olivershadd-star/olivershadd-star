@@ -33,11 +33,9 @@ Pour découvrir une autre facette de cet univers, vous pouvez écouter **HURk** 
 <div align="center">
 
 [![SoundCloud — HURk](https://img.shields.io/badge/SOUNDCLOUD-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=soundcloud&logoColor=FF6033)](https://soundcloud.com/hurk666)
-[![Spotify — HURk](https://img.shields.io/badge/SPOTIFY-FIND_HURk-10151E?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/search/HURk%20Static%20Blood)
+[![Spotify — HURk](https://img.shields.io/badge/SPOTIFY-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/intl-fr/artist/35kgknATs5ibL9zNGeA8ui)
 
 </div>
-
-*Spotify : lien de recherche ciblée sur HURk et « Static Blood », en attendant le lien direct vers le bon profil d'artiste.*
 
 > **Build. Break. Rewire. Listen.**
 >
