@@ -16,17 +16,34 @@
 
 ---
 
-### `// 001` — ANKS LABS
+### `// 001` — ANKS · ANIKI SHAD · ANKS LABS
 
 **ANKS Labs** est un laboratoire indépendant consacré à la conception et à l’expérimentation d’outils pour la production musicale électronique : instruments virtuels, moteurs audio, applications Windows, séquenceurs et systèmes de contrôle MIDI.
 
 Le laboratoire explore autant le développement de nouveaux instruments que l’adaptation de projets open source existants. L’objectif est de **tester, comprendre, transformer et partager** des outils utiles à la création sonore, sans démarche commerciale systématique.
 
+**ANKS**, porté par **Aniki Shad**, fait le lien entre la création musicale et l'expérimentation technique. L'idée est simple : développer des outils parce qu'on aime le son, les machines, les synthétiseurs et tout ce qu'il est possible d'en tirer.
+
+ANKS travaille et échange avec des **passionnés de musique, des petits producteurs indépendants**, qui créent avec leurs propres moyens et cherchent une identité sonore personnelle. C'est le cas de **HURk**, projet de musique électronique industrielle : un univers dans lequel les textures, les machines et les expérimentations sonores prennent toute leur place. Ici, la technique n'est pas une fin en soi : elle sert avant tout à faire de la musique.
+
+### `// 002` — MUSIC / LISTEN TO HURk
+
+Pour découvrir une autre facette de cet univers, vous pouvez écouter **HURk** sur SoundCloud ou retrouver ses titres sur Spotify.
+
+<div align="center">
+
+[![SoundCloud — HURk](https://img.shields.io/badge/SOUNDCLOUD-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=soundcloud&logoColor=FF6033)](https://soundcloud.com/hurk666)
+[![Spotify — HURk](https://img.shields.io/badge/SPOTIFY-FIND_HURk-10151E?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/search/HURk%20Static%20Blood)
+
+</div>
+
+*Spotify : lien de recherche ciblée sur HURk et « Static Blood », en attendant le lien direct vers le bon profil d'artiste.*
+
 > **Build. Break. Rewire. Listen.**
 >
 > Des projets concrets, des prototypes expérimentaux, des tests de moteurs DSP et une approche ouverte de la recherche sonore.
 
-### `// 002` — PUBLIC PROJECTS
+### `// 003` — PUBLIC PROJECTS
 
 <a href="https://github.com/olivershadd-star/Berhinger-Kick"><img src="assets/kick-lab-card.png" width="100%" alt="KICK Lab — version Windows 0.22.0 preview" /></a>
 
@@ -46,7 +63,7 @@ Le laboratoire explore autant le développement de nouveaux instruments que l’
 
 [Architecture et statut technique](https://github.com/olivershadd-star/SWARM)
 
-### `// 003` — EXPERIMENTAL DEVELOPMENT
+### `// 004` — EXPERIMENTAL DEVELOPMENT
 
 Les autres expérimentations publiques comprennent **[CURVE-PILOT](https://github.com/olivershadd-star/CURVE-PILOT)**, **[CURVE-EDITOR-M4L](https://github.com/olivershadd-star/CURVE-EDITOR-M4L)** et **[MOOGER](https://github.com/olivershadd-star/MOOGER)**. Certaines de ces pages sont encore en phase de préparation et ne constituent pas des versions distribuables.
 
@@ -57,13 +74,13 @@ Domaines explorés :
 - **MIDI & hardware** — contrôle de machines, mapping, séquenceurs et passerelles logicielles.
 - **Open source research** — étude, adaptation et évolution de code publié par des communautés ou fabricants.
 
-### `// 004` — OPEN DEVELOPMENT / LICENCES
+### `// 005` — OPEN DEVELOPMENT / LICENCES
 
 Les portages **KICK Lab** et **IGNITE** sont des projets communautaires indépendants, fondés sur des sources ouvertes de Music Tribe et soumis aux licences indiquées dans leurs dépôts respectifs. Les marques **Behringer, Music Tribe, Native Instruments et Maschine** appartiennent à leurs titulaires. Aucun de ces portages n’est un produit officiel de ces fabricants.
 
 **Tous les dépôts publics ne sont pas automatiquement open source.** Le droit de réutiliser ou redistribuer du code dépend de la licence propre à chaque projet. Les autres outils ANKS Labs peuvent être des expérimentations publiques, des projets privés ou des logiciels distribués sans publication du code source.
 
-### `// 005` — CONTACT & COLLABORATION
+### `// 006` — CONTACT & COLLABORATION
 
 ANKS Labs est ouvert à l’échange technique autour de l’audio numérique, de la synthèse, du MIDI et de l’expérimentation logicielle. Pour discuter d’un projet public, utiliser ses **Issues** ou **Discussions** lorsque ces espaces sont activés.
 
