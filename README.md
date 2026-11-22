@@ -18,9 +18,11 @@
 
 ---
 
-# ⚡ ANKS LABS — THE PROJECTS
+# ⚡ ANKS LABS — AUDIO PROJECTS
 
-**Synthétiseurs, effets VST3, grooveboxes Windows et outils de contrôle MIDI.** Des logiciels développés et expérimentés au sein d’ANKS Labs, certains prêts à tester, d’autres encore en construction.
+**Synthétiseurs, effets VST3, grooveboxes Windows et outils de contrôle MIDI.** ANKS Labs expose ici ses adaptations open source, ses instruments originaux et ses prototypes expérimentaux. **Les builds présentés sont des versions de test : aucun projet n'est annoncé comme une version stable.**
+
+**[Adaptations open source](#01--open-source-adaptations)** · **[Créations originales](#02--original-anks-labs-instruments)** · **[Outils et expérimentations](#03--automation--midi-tools)** · **[À propos / musique](#about-anks-labs)
 
 <div align="center">
 
@@ -29,7 +31,9 @@
 
 </div>
 
-## 01 // KICK LAB — WINDOWS GROOVEBOX
+## 01 // OPEN-SOURCE ADAPTATIONS
+
+### KICK LAB — WINDOWS GROOVEBOX
 
 <a href="https://github.com/olivershadd-star/Berhinger-Kick"><img src="assets/kick-lab-card.png" alt="KICK Lab — groovebox Windows" width="100%" /></a>
 
@@ -39,13 +43,30 @@
 
 **Groovebox autonome Windows**, adaptée à partir des sources ouvertes KICK de Music Tribe : 16 pads, huit patterns A–H, séquenceur graphique, mixeurs, effets, export WAV et contrôle MIDI.
 
-**Maschine+**, **LPD8** et **MPK Mini** peuvent être exploités comme contrôleurs via les entrées MIDI prévues dans le projet. KICK Lab fonctionne aussi à la souris et au clavier, sans hardware dédié.
+**Pourquoi ce portage ?** Explorer comment le code open source KICK peut devenir une groovebox autonome pour Windows, avec une prise en main concrète sur des contrôleurs MIDI que l'on possède déjà.
+
+**Maschine+**, **LPD8** et **MPK Mini** peuvent être exploités comme contrôleurs via les entrées MIDI prévues dans le projet. Maschine+ pilote notamment les pads et les encodeurs ; LPD8 sélectionne les patterns A–H et contrôle huit macros ; MPK Mini peut servir au jeu mélodique. **Les appareils sont connectés au PC et leurs entrées MIDI sont ouvertes en parallèle.** KICK Lab fonctionne aussi à la souris et au clavier, sans hardware dédié.
+
+**Statut : public test build (0.24.0 preview) — non stable.** Objectifs à venir : poursuite du portage, validation VST3, puis étape alpha et tests plus larges.
 
 **[⬇ Télécharger KICK Lab 0.24.0 preview](https://github.com/olivershadd-star/Berhinger-Kick/releases/tag/v0.24.0-preview)** · **[Code et documentation](https://github.com/olivershadd-star/Berhinger-Kick)**
 
 ---
 
-## 02 // MODULAR — HYBRID SOUND LAB
+### MANGO — MODULAR GLITCH & MANGLING (PRIVATE RESEARCH)
+
+![Private research](https://img.shields.io/badge/ANKS_WORK-PRIVATE_EXPERIMENT-EF343E?style=flat-square&labelColor=10151E)
+![Upstream](https://img.shields.io/badge/ORIGINAL-ODOARE_%2F_MANGO-19B9FF?style=flat-square&labelColor=10151E)
+
+**MANGO** est étudié comme base d'adaptation à partir du projet open source de **[Olivier Doaré / FX-Mechanics](https://github.com/odoare/Mango)** : séquenceur d'effets par blocs, glitch, mangling et hasard reproductible.
+
+**Statut ANKS Labs : dépôt de travail encore privé.** Aucune version ANKS Labs n'est actuellement annoncée comme téléchargeable. Les crédits et conditions de licence du projet original sont conservés.
+
+---
+
+## 02 // ORIGINAL ANKS LABS INSTRUMENTS
+
+### MODULAR — HYBRID SOUND LAB
 
 ![C++ JUCE](https://img.shields.io/badge/C%2B%2B_%2F_JUCE-SYNTH_ENGINE-19B9FF?style=flat-square&labelColor=10151E)
 ![Version](https://img.shields.io/badge/ALPHA-1.3.4-EF343E?style=flat-square&labelColor=10151E)
@@ -58,7 +79,7 @@ Un laboratoire de synthèse hybride **VST3 et standalone Windows** : import WAV,
 
 ---
 
-## 03 // MOOGER — SEMI-MODULAR SYNTHESIZER
+### MOOGER — SEMI-MODULAR SYNTHESIZER
 
 ![Windows build](https://img.shields.io/badge/WINDOWS-BUILD_VALIDATED-19B9FF?style=flat-square&labelColor=10151E)
 ![Version](https://img.shields.io/badge/PROTOTYPE-V0.5-EF343E?style=flat-square&labelColor=10151E)
@@ -74,7 +95,7 @@ Compilation Windows et tests automatisés réussis ; l'écoute et l'intégration
 
 ---
 
-## 04 // SWARM / 01 — DUAL-SWARM SYNTH
+### SWARM / 01 — DUAL-SWARM SYNTH
 
 <a href="https://github.com/olivershadd-star/SWARM"><img src="assets/swarm-card.png" alt="SWARM / 01 — synthétiseur expérimental à morphing XY" width="100%" /></a>
 
@@ -87,7 +108,7 @@ Compilation Windows et tests automatisés réussis ; l'écoute et l'intégration
 
 ---
 
-## 05 // FRAGMENT ENGINE — RHYTHMIC STUTTER FX
+### FRAGMENT ENGINE — RHYTHMIC STUTTER FX
 
 ![VST3](https://img.shields.io/badge/FX-VST3-19B9FF?style=flat-square&labelColor=10151E)
 ![Version](https://img.shields.io/badge/PROTOTYPE-0.3.0-EF343E?style=flat-square&labelColor=10151E)
@@ -100,18 +121,20 @@ Effet audio **stutter / repeat** synchronisé au transport : capture de courts f
 
 ---
 
-## 06 // MS1 — WAVETABLE INSTRUMENT
+### MS1 — WAVETABLE INSTRUMENT
 
 ![VST3](https://img.shields.io/badge/INSTRUMENT-VST3-19B9FF?style=flat-square&labelColor=10151E)
 ![JUCE](https://img.shields.io/badge/FRAMEWORK-JUCE-EF343E?style=flat-square&labelColor=10151E)
 
-**[MS1](https://github.com/olivershadd-star/MS1)** — instrument wavetable JUCE : **unison, filtre, LFO, enveloppe de modulation, séquenceur pas à pas et banque de presets**. Des artefacts de compilation peuvent être récupérés via GitHub Actions selon les builds disponibles.
+**[MS1](https://github.com/olivershadd-star/MS1)** — expérimentation originale née d'une idée de **croisement des approches musicales de Massive et Serum**, sans reprise de leur code ou de leurs interfaces. Instrument wavetable JUCE : **unison, filtre, LFO, enveloppe de modulation, séquenceur pas à pas et banque de presets**.
+
+**Statut : experimental test build — non stable.** Des artefacts peuvent être récupérés via GitHub Actions selon les compilations réussies et leur durée de conservation.
 
 **[Code et documentation](https://github.com/olivershadd-star/MS1)** · **[GitHub Actions](https://github.com/olivershadd-star/MS1/actions)**
 
 ---
 
-## 07 // OTHER EXPERIMENTS
+## 03 // AUTOMATION & MIDI TOOLS
 
 | Projet | Description | État visible |
 |:--|:--|:--|
