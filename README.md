@@ -18,20 +18,47 @@
 
 ---
 
-# ⚡ ANKS LABS — AUDIO PROJECTS
+## `// 01` — ANKS · ANIKI SHAD
 
-**Synthétiseurs, effets VST3, grooveboxes Windows et outils de contrôle MIDI.** ANKS Labs expose ici ses adaptations open source, ses instruments originaux et ses prototypes expérimentaux. **Les builds présentés sont des versions de test : aucun projet n'est annoncé comme une version stable.**
+**ANKS Labs** est un laboratoire indépendant consacré à la conception et à l’expérimentation d’outils pour la production musicale électronique : instruments virtuels, moteurs audio, applications Windows, séquenceurs et systèmes de contrôle MIDI.
 
-**[Adaptations open source](#01--open-source-adaptations)** · **[Créations originales](#02--original-anks-labs-instruments)** · **[Outils et expérimentations](#03--automation--midi-tools)** · **[À propos / musique](#about-anks-labs)
+Le laboratoire explore autant le développement de nouveaux instruments que l’adaptation de projets open source existants. L’objectif est de **tester, comprendre, transformer et partager** des outils utiles à la création sonore, sans démarche commerciale systématique.
+
+**ANKS**, porté par **Aniki Shad**, fait le lien entre la création musicale et l'expérimentation technique. L'idée est simple : développer des outils parce qu'on aime le son, les machines, les synthétiseurs et tout ce qu'il est possible d'en tirer.
+
+ANKS travaille et échange avec des **passionnés de musique, des petits producteurs indépendants**, qui créent avec leurs propres moyens et cherchent une identité sonore personnelle. C'est le cas de **HURk**, projet de musique électronique industrielle : un univers où textures, machines et expérimentations sonores occupent une place importante.
+
+> **Build. Break. Rewire. Listen.**
+>
+> Des projets concrets, des prototypes expérimentaux et une approche ouverte de la recherche sonore.
+
+## `// 02` — MUSIC CONNECTION · HURk
+
+Pour découvrir la musique de **HURk** :
 
 <div align="center">
 
-[![DOWNLOAD KICK LAB](https://img.shields.io/badge/KICK_LAB-WINDOWS_DOWNLOAD-EF343E?style=for-the-badge&labelColor=11151D)](https://github.com/olivershadd-star/Berhinger-Kick/releases)
-[![EXPLORE ALL PROJECTS](https://img.shields.io/badge/ALL_PROJECTS-EXPLORE_REPOSITORIES-19B9FF?style=for-the-badge&labelColor=11151D)](https://github.com/olivershadd-star?tab=repositories)
+[![HURk Spotify](https://img.shields.io/badge/SPOTIFY-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/intl-fr/artist/35kgknATs5ibL9zNGeA8ui)
+[![HURk SoundCloud](https://img.shields.io/badge/SOUNDCLOUD-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=soundcloud&logoColor=FF6033)](https://soundcloud.com/hurk666)
 
 </div>
 
-## 01 // OPEN-SOURCE ADAPTATIONS
+---
+
+# ⚡ PROJECTS & DEVELOPMENT
+
+**Synthétiseurs, grooveboxes, effets VST3 et outils MIDI pour Windows.** Des adaptations de code ouvert et des instruments originaux, conçus comme un laboratoire de création sonore.
+
+**Les versions proposées sont expérimentales et les builds de test ne sont pas des versions stables.** Chaque dépôt détaille les fonctions, les limites et les conditions de réutilisation.
+
+<div align="center">
+
+[![KICK LAB WINDOWS](https://img.shields.io/badge/KICK_LAB-TEST_BUILD-EF343E?style=for-the-badge&labelColor=10151E)](https://github.com/olivershadd-star/Berhinger-Kick/releases)
+[![PUBLIC REPOS](https://img.shields.io/badge/PROJECTS-EXPLORE_ALL-19B9FF?style=for-the-badge&labelColor=10151E)](https://github.com/olivershadd-star?tab=repositories)
+
+</div>
+
+## `// 03` — OPEN-SOURCE ADAPTATIONS
 
 ### KICK LAB — WINDOWS GROOVEBOX
 
@@ -53,29 +80,18 @@
 
 ---
 
-### MANGO — MODULAR GLITCH & MANGLING (PRIVATE RESEARCH)
+## `// 04` — ORIGINAL ANKS LABS INSTRUMENTS
 
-![Private research](https://img.shields.io/badge/ANKS_WORK-PRIVATE_EXPERIMENT-EF343E?style=flat-square&labelColor=10151E)
-![Upstream](https://img.shields.io/badge/ORIGINAL-ODOARE_%2F_MANGO-19B9FF?style=flat-square&labelColor=10151E)
+### MS1 — WAVETABLE INSTRUMENT
 
-**MANGO** est étudié comme base d'adaptation à partir du projet open source de **[Olivier Doaré / FX-Mechanics](https://github.com/odoare/Mango)** : séquenceur d'effets par blocs, glitch, mangling et hasard reproductible.
+![VST3](https://img.shields.io/badge/INSTRUMENT-VST3-19B9FF?style=flat-square&labelColor=10151E)
+![JUCE](https://img.shields.io/badge/FRAMEWORK-JUCE-EF343E?style=flat-square&labelColor=10151E)
 
-**Statut ANKS Labs : dépôt de travail encore privé.** Aucune version ANKS Labs n'est actuellement annoncée comme téléchargeable. Les crédits et conditions de licence du projet original sont conservés.
+**[MS1](https://github.com/olivershadd-star/MS1)** — expérimentation originale née d'une idée de **croisement des approches musicales de Massive et Serum**, sans reprise de leur code ou de leurs interfaces. Instrument wavetable JUCE : **unison, filtre, LFO, enveloppe de modulation, séquenceur pas à pas et banque de presets**.
 
----
+**Statut : experimental test build — non stable.** Des artefacts peuvent être récupérés via GitHub Actions selon les compilations réussies et leur durée de conservation.
 
-## 02 // ORIGINAL ANKS LABS INSTRUMENTS
-
-### MODULAR — HYBRID SOUND LAB
-
-![C++ JUCE](https://img.shields.io/badge/C%2B%2B_%2F_JUCE-SYNTH_ENGINE-19B9FF?style=flat-square&labelColor=10151E)
-![Version](https://img.shields.io/badge/ALPHA-1.3.4-EF343E?style=flat-square&labelColor=10151E)
-
-**[MODULAR / ANKS Resonant Lab](https://github.com/olivershadd-star/MODULAR)**
-
-Un laboratoire de synthèse hybride **VST3 et standalone Windows** : import WAV, 36 excitations intégrées, double corps résonant, source FM à deux opérateurs et rack de traitements réordonnables. Semi-modulaire, décalage de fréquence, freeze spectral et expériences granulaires font partie des explorations du moteur.
-
-**[Explorer le code, les modules et la documentation](https://github.com/olivershadd-star/MODULAR)**
+**[Code et documentation](https://github.com/olivershadd-star/MS1)** · **[GitHub Actions](https://github.com/olivershadd-star/MS1/actions)**
 
 ---
 
@@ -92,6 +108,19 @@ Synthétiseur semi-modulaire original : **deux oscillateurs, filtre résonant, p
 Compilation Windows et tests automatisés réussis ; l'écoute et l'intégration dans Ableton restent à valider.
 
 **[Projet et sources](https://github.com/olivershadd-star/MOOGER)** · **[Builds Windows VST3 / EXE](https://github.com/olivershadd-star/MOOGER/actions)**
+
+---
+
+### MODULAR — HYBRID SOUND LAB
+
+![C++ JUCE](https://img.shields.io/badge/C%2B%2B_%2F_JUCE-SYNTH_ENGINE-19B9FF?style=flat-square&labelColor=10151E)
+![Version](https://img.shields.io/badge/ALPHA-1.3.4-EF343E?style=flat-square&labelColor=10151E)
+
+**[MODULAR / ANKS Resonant Lab](https://github.com/olivershadd-star/MODULAR)**
+
+Un laboratoire de synthèse hybride **VST3 et standalone Windows** : import WAV, 36 excitations intégrées, double corps résonant, source FM à deux opérateurs et rack de traitements réordonnables. Semi-modulaire, décalage de fréquence, freeze spectral et expériences granulaires font partie des explorations du moteur.
+
+**[Explorer le code, les modules et la documentation](https://github.com/olivershadd-star/MODULAR)**
 
 ---
 
@@ -121,20 +150,7 @@ Effet audio **stutter / repeat** synchronisé au transport : capture de courts f
 
 ---
 
-### MS1 — WAVETABLE INSTRUMENT
-
-![VST3](https://img.shields.io/badge/INSTRUMENT-VST3-19B9FF?style=flat-square&labelColor=10151E)
-![JUCE](https://img.shields.io/badge/FRAMEWORK-JUCE-EF343E?style=flat-square&labelColor=10151E)
-
-**[MS1](https://github.com/olivershadd-star/MS1)** — expérimentation originale née d'une idée de **croisement des approches musicales de Massive et Serum**, sans reprise de leur code ou de leurs interfaces. Instrument wavetable JUCE : **unison, filtre, LFO, enveloppe de modulation, séquenceur pas à pas et banque de presets**.
-
-**Statut : experimental test build — non stable.** Des artefacts peuvent être récupérés via GitHub Actions selon les compilations réussies et leur durée de conservation.
-
-**[Code et documentation](https://github.com/olivershadd-star/MS1)** · **[GitHub Actions](https://github.com/olivershadd-star/MS1/actions)**
-
----
-
-## 03 // AUTOMATION & MIDI TOOLS
+## `// 05` — AUTOMATION & MIDI TOOLS
 
 | Projet | Description | État visible |
 |:--|:--|:--|
@@ -146,34 +162,20 @@ Ces dépôts sont des chantiers ou des espaces techniques ; ils ne correspondent
 
 ---
 
-# // ABOUT ANKS LABS
+## `// 06` — PRIVATE RESEARCH
 
-**ANKS Labs** est un laboratoire indépendant consacré à la conception et à l’expérimentation d’outils pour la production musicale électronique : instruments virtuels, moteurs audio, applications Windows, séquenceurs et systèmes de contrôle MIDI.
+### MANGO — MODULAR GLITCH & MANGLING (PRIVATE RESEARCH)
 
-Le laboratoire explore autant le développement de nouveaux instruments que l’adaptation de projets open source existants. L’objectif est de **tester, comprendre, transformer et partager** des outils utiles à la création sonore, sans démarche commerciale systématique.
+![Private research](https://img.shields.io/badge/ANKS_WORK-PRIVATE_EXPERIMENT-EF343E?style=flat-square&labelColor=10151E)
+![Upstream](https://img.shields.io/badge/ORIGINAL-ODOARE_%2F_MANGO-19B9FF?style=flat-square&labelColor=10151E)
 
-**ANKS**, porté par **Aniki Shad**, fait le lien entre la création musicale et l'expérimentation technique. L'idée est simple : développer des outils parce qu'on aime le son, les machines, les synthétiseurs et tout ce qu'il est possible d'en tirer.
+**MANGO** est étudié comme base d'adaptation à partir du projet open source de **[Olivier Doaré / FX-Mechanics](https://github.com/odoare/Mango)** : séquenceur d'effets par blocs, glitch, mangling et hasard reproductible.
 
-ANKS travaille et échange avec des **passionnés de musique, des petits producteurs indépendants**, qui créent avec leurs propres moyens et cherchent une identité sonore personnelle. C'est le cas de **HURk**, projet de musique électronique industrielle : un univers où textures, machines et expérimentations sonores occupent une place importante.
-
-> **Build. Break. Rewire. Listen.**
->
-> Des projets concrets, des prototypes expérimentaux et une approche ouverte de la recherche sonore.
-
-## // ANKS MUSIC CONNECTION — HURk
-
-Pour découvrir la musique de **HURk** :
-
-<div align="center">
-
-[![HURk Spotify](https://img.shields.io/badge/SPOTIFY-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/intl-fr/artist/35kgknATs5ibL9zNGeA8ui)
-[![HURk SoundCloud](https://img.shields.io/badge/SOUNDCLOUD-LISTEN_TO_HURk-10151E?style=for-the-badge&logo=soundcloud&logoColor=FF6033)](https://soundcloud.com/hurk666)
-
-</div>
+**Statut ANKS Labs : dépôt de travail encore privé.** Aucune version ANKS Labs n'est actuellement annoncée comme téléchargeable. Les crédits et conditions de licence du projet original sont conservés.
 
 ---
 
-## // OPEN SOURCE, LICENCES & ATTRIBUTION
+## `// 07` — OPEN SOURCE, LICENCES & ATTRIBUTION
 
 **Public ne veut pas automatiquement dire libre de droits.** Chaque dépôt et chaque dépendance conservent leurs conditions de licence.
 
@@ -183,7 +185,9 @@ Pour découvrir la musique de **HURk** :
 
 Les marques **Behringer, Music Tribe, Native Instruments et Maschine** appartiennent à leurs titulaires. Les portages et prototypes ANKS Labs ne sont pas des produits officiels de ces fabricants.
 
-## // CONTACT & EXCHANGE
+---
+
+## `// 08` — CONTACT & EXCHANGE
 
 ANKS Labs est ouvert aux échanges autour de la synthèse, du DSP, des outils MIDI et du développement audio indépendant. Pour un projet public, utiliser ses **Issues** ou **Discussions** lorsque disponibles.
 
