@@ -126,7 +126,7 @@ MS1 explore des méthodes de sound design associées aux synthétiseurs modernes
 
 <a href="https://github.com/olivershadd-star/MODULAR"><img src="assets/card-modular.svg" alt="Modular — synthèse hybride et traitements DSP" width="100%" /></a>
 
-![Modular](https://img.shields.io/badge/STATUS-ALPHA_1.4.3-EF343E?style=flat-square&labelColor=10151E) ![FX](https://img.shields.io/badge/ENGINE-13_TREATMENTS-19B9FF?style=flat-square&labelColor=10151E)
+![Modular](https://img.shields.io/badge/STATUS-ALPHA_1.4_ALPHA_3-EF343E?style=flat-square&labelColor=10151E) ![FX](https://img.shields.io/badge/ENGINE-13_TREATMENTS-19B9FF?style=flat-square&labelColor=10151E)
 
 **[MODULAR](https://github.com/olivershadd-star/MODULAR)** — laboratoire de synthèse hybride VST3 / standalone. La **version 1.4 alpha 3** documente désormais **six emplacements** pour **treize traitements**, avec excitations WAV, deux corps résonants, FM, filtre, saturation, granulaire, delay, chorus, frequency shifting, freeze spectral, ring modulation, bitcrusher, phaser et comb.
 
@@ -190,7 +190,7 @@ Cette première suite est pensée comme une base évolutive ; d'autres collectio
 
 **[BEAT JUGGLING](https://github.com/olivershadd-star/BEAT-JUGGLING)** n'est pas simplement un effet inséré sur une piste : c'est un **module de passe-passe séquencé**, sous forme d'instrument VST3 pour Ableton. Deux platines virtuelles reçoivent des sons ; on prépare des **blocs de lecture, de scratch, de backspin, de roll, d'arrêt ou d'inversion**, puis on les enchaîne au tempo.
 
-Quatre patterns indépendants permettent de construire et d'alterner ces séquences, avec édition directe des zones sur la forme d'onde et outils pour recaler le BPM. **Le dépôt fournit les instructions de compilation et de récupération du VST3 depuis GitHub Actions.** [**Lire l'explication complète](https://github.com/olivershadd-star/BEAT-JUGGLING)**.
+Quatre patterns indépendants permettent de construire et d'alterner ces séquences, avec édition directe des zones sur la forme d'onde et outils pour recaler le BPM. **Le dépôt fournit les instructions de compilation et de récupération du VST3 depuis GitHub Actions.** [**Lire l'explication complète**](https://github.com/olivershadd-star/BEAT-JUGGLING).
 
 ---
 
