@@ -69,134 +69,146 @@ ANKS Labs travaille et échange avec des musiciens et de **petits producteurs in
 
 <div align="center">
 
-[![KICK Lab Downloads](https://img.shields.io/badge/KICK_LAB-DOWNLOAD_PREVIEW-EF343E?style=for-the-badge&labelColor=10151E)](https://github.com/olivershadd-star/Berhinger-Kick/releases)
-[![All repositories](https://img.shields.io/badge/REPOSITORIES-EXPLORE_ANKS_LABS-19B9FF?style=for-the-badge&labelColor=10151E)](https://github.com/olivershadd-star?tab=repositories)
+[![KICK — Windows port](https://img.shields.io/badge/KICK-DOWNLOAD_PREVIEW-EF343E?style=for-the-badge&labelColor=10151E)](https://github.com/olivershadd-star/Berhinger-Kick/releases)
+[![ANKS Labs repositories](https://img.shields.io/badge/REPOSITORIES-EXPLORE_ALL-19B9FF?style=for-the-badge&labelColor=10151E)](https://github.com/olivershadd-star?tab=repositories)
 
 </div>
 
-**Attention :** la présence d'un projet sur GitHub ne signifie ni qu'il est stable, ni que son code est automatiquement réutilisable sans condition. Les statuts de test et les licences sont indiqués par projet.
+**Le laboratoire ne se résume pas à une collection de synthétiseurs.** Les projets vont de la boîte à rythmes au séquenceur MIDI, du VST3 à Max for Live, de l'empileur de loops aux outils pour Ableton. Chaque famille répond à un besoin musical différent.
 
-## 02 // OPEN-SOURCE ADAPTATIONS — PROJET PRINCIPAL
+**Important :** les dépôts publics ne sont pas tous des releases stables ni automatiquement des logiciels open source réutilisables sans condition. Vérifiez les licences, les versions de test et les instructions propres à chaque dépôt.
 
-<a href="https://github.com/olivershadd-star/Berhinger-Kick"><img src="assets/card-kick-lab.svg" alt="KICK Lab — ANKS Labs" width="100%" /></a>
+## 02 // KICK — PORTAGE WINDOWS & SÉQUENCEUR
 
-![Release](https://img.shields.io/badge/VERSION-0.24.0_PREVIEW-EF343E?style=flat-square&labelColor=10151E) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011_X64-19B9FF?style=flat-square&labelColor=10151E) ![AGPL](https://img.shields.io/badge/LICENCE-AGPL--3.0--or--later-F5C343?style=flat-square&labelColor=10151E)
+<a href="https://github.com/olivershadd-star/Berhinger-Kick"><img src="assets/card-kick-lab.svg" alt="KICK — adaptation Windows de la boîte à rythmes" width="100%" /></a>
 
-### KICK LAB — LA MACHINE QUI A TOUT DÉCLENCHÉ
+![Windows](https://img.shields.io/badge/WINDOWS-TEST_PREVIEW-EF343E?style=flat-square&labelColor=10151E) ![Version](https://img.shields.io/badge/VERSION-0.24.2-19B9FF?style=flat-square&labelColor=10151E) ![Licence](https://img.shields.io/badge/LICENCE-AGPL--3.0-F5C343?style=flat-square&labelColor=10151E)
 
-**KICK Lab est aujourd'hui le projet central d'ANKS Labs**, et surtout **celui qui a véritablement lancé l'aventure du vibe coding**.
+**[KICK](https://github.com/olivershadd-star/Berhinger-Kick)** est le portage Windows indépendant du code de la boîte à rythmes KICK publié par **Music Tribe / Behringer**. C'est le projet qui a lancé les premières expérimentations concrètes du laboratoire en vibe coding. Le logiciel conserve **son nom d'origine : KICK**.
 
-En octobre 2026, **Music Tribe / Behringer** a publié le code source de sa future groovebox **KICK** ([projet officiel BE 0700-AAM](https://github.com/MusicTribeOpenSource/0700-AAM)) **alors que la machine matérielle n'était pas encore commercialisée**. Pour un passionné de cette marque et de ce type de machines, c'était une occasion rare : accéder à l'architecture d'un instrument à venir, explorer son code et essayer d'en tirer un outil concret, avec l'aide de l'IA, sans être développeur de métier.
+Le portage a déjà reçu certaines adaptations pour fonctionner sur PC, avec une interface utilisable à la souris et au clavier ainsi que des recherches de mapping **Maschine+ / Akai LPD8**. Mais **la priorité actuelle est de retrouver et consolider la boîte à rythmes d'origine**, avant de transformer le logiciel davantage.
 
-**L'idée n'est pas de reproduire ni de vendre une KICK officielle.** ANKS Labs travaille sur un **portage autonome Windows**, indépendant du constructeur, à partir des sources ouvertes, pour utiliser cette logique de groovebox sans dépendre de la surface matérielle originale.
+**La direction :** portage Windows → reconstruction et amélioration du **séquenceur de batterie** → évolution progressive vers une **groovebox** plus complète. Un format VST3 destiné notamment à Ableton reste une piste future, pas une fonctionnalité déjà livrée.
 
-Le travail porte à la fois sur le moteur audio, les fonctions musicales, l'interface Windows, les tests et le **contrôle MIDI par des surfaces déjà présentes dans un home studio**. Une grande partie de l'intérêt vient de la possibilité de détourner et personnaliser le flux de travail : apprendre comment la machine fonctionne, puis **adapter son comportement à ses propres besoins**.
+**Statut : preview 0.24.2, non stable.** Les noms techniques d'exécutables et d'archives hérités des builds antérieurs peuvent encore contenir « KickLab » ; ce n'est pas le nom retenu pour le projet.
 
-**Fonctions documentées dans la version 0.24.0 preview :**
-- **16 pads** et kits sauvegardables ; **8 patterns A–H**, de 1 à 4 mesures ; séquenceur graphique et enregistrement quantifié.
-- Jeu et édition en modes **Pad, Keyboard, Chords et Step**, avec édition des événements.
-- **Mixage par pads et pistes**, mute/solo, quatre inserts par pad, effets et export **WAV stéréo**.
-- Chargement de **samples personnels** via une bibliothèque externe.
-- **Maschine+ en mode contrôleur** pour piloter pads, encodeurs et commandes ; **Akai LPD8** pour les patterns et macros ; **MPK Mini** pour le jeu mélodique.
-- Les contrôleurs sont reliés au **PC et à ses entrées MIDI**. KICK Lab reste utilisable uniquement à la souris et au clavier.
-
-**Statut : version publique de test, non stable.** Le portage, les performances, l'intégration MIDI et une éventuelle version VST3 restent des chantiers. Ce projet indépendant ne constitue **ni un firmware officiel Behringer, ni une annonce de disponibilité du matériel KICK**. Les marques et les sources originales restent créditées.
-
-**[⬇ Télécharger KICK Lab 0.24.0 preview](https://github.com/olivershadd-star/Berhinger-Kick/releases/tag/v0.24.0-preview)** · **[Code & documentation](https://github.com/olivershadd-star/Berhinger-Kick)** · **[Sources originales Music Tribe](https://github.com/MusicTribeOpenSource/0700-AAM)**
+[**Télécharger la preview Windows**](https://github.com/olivershadd-star/Berhinger-Kick/releases/tag/v0.24.2-preview) · [**Code et documentation**](https://github.com/olivershadd-star/Berhinger-Kick) · [**Sources Music Tribe**](https://github.com/MusicTribeOpenSource/0700-AAM)
 
 ---
 
-## 03 // ORIGINAL ANKS LABS INSTRUMENTS
+## 03 // STACKER — PRODUCTION PAR EMPILEMENT
 
-Cette famille rassemble les **instruments de génération et de transformation sonore** conçus au laboratoire : synthèse wavetable, semi-modulaire, résonance hybride, oscillateurs et morphing. Les prototypes ne doivent pas être confondus avec des versions commerciales finalisées.
+<a href="https://github.com/olivershadd-star/STAKER"><img src="assets/card-stacker.svg" alt="Stacker — empileur de loops autonome" width="100%" /></a>
 
-<a href="https://github.com/olivershadd-star/MS1"><img src="assets/card-ms1.svg" alt="MS1 — ANKS Labs" width="100%" /></a>
+![Application](https://img.shields.io/badge/APP-WINDOWS_STANDALONE-19B9FF?style=flat-square&labelColor=10151E) ![Loops](https://img.shields.io/badge/LOOPS-16_LANES-EF343E?style=flat-square&labelColor=10151E)
 
-![MS1](https://img.shields.io/badge/STATUS-EXPERIMENTAL_TEST_BUILD-EF343E?style=flat-square&labelColor=10151E) ![VST3](https://img.shields.io/badge/FORMAT-VST3-19B9FF?style=flat-square&labelColor=10151E)
+**STACKER** (dépôt GitHub : **[STAKER](https://github.com/olivershadd-star/STAKER)**) est un **empileur de loops autonome**. Ce n'est ni un synthétiseur, ni un DAW complet : c'est un outil conçu pour **assembler rapidement des couches sonores**, essayer des combinaisons et trouver des structures à partir d'une bibliothèque de samples et de loops.
 
-**[MS1](https://github.com/olivershadd-star/MS1)** explore la **synthèse wavetable** et l'organisation d'un instrument compact : unison, filtre, enveloppe de modulation, LFO, séquenceur pas à pas et banque de presets. Son point de départ est une réflexion sur certaines **approches musicales** de Massive et Serum, sans reprise de leurs codes ou interfaces.
+Le projet décrit **16 lignes** avec volume, panoramique, hauteur, mute/solo, effets et mise au tempo, ainsi qu'un **séquenceur à 16 pas**, des blocs **A–H**, des pads d'enchaînement et un **générateur de commandes textuelles sans IA**. L'export prévoit le WAV et un **projet Ableton Live** avec pistes rendues.
 
-**Statut : prototype JUCE / VST3**, builds expérimentaux via GitHub Actions ; validation en situation réelle à poursuivre. **[Projet et builds de test](https://github.com/olivershadd-star/MS1/actions)**.
+C'est un outil de composition et d'expérimentation, pas une station audionumérique généraliste. Une **déclinaison en application mobile est envisagée** ; elle n'est pas encore annoncée comme disponible.
 
----
-
-<a href="https://github.com/olivershadd-star/MOOGER"><img src="assets/card-mooger.svg" alt="MOOGER — ANKS Labs" width="100%" /></a>
-
-![MOOGER](https://img.shields.io/badge/STATUS-PROTOTYPE_V0.5-EF343E?style=flat-square&labelColor=10151E) ![Build](https://img.shields.io/badge/WINDOWS-BUILD_TESTED-19B9FF?style=flat-square&labelColor=10151E)
-
-**[MOOGER](https://github.com/olivershadd-star/MOOGER)** est un synthétiseur **semi-modulaire original**, avec deux oscillateurs, filtre résonant, VCA, patching virtuel, séquenceur huit pas et une voix de percussion indépendante. Le laboratoire de modulation comprend LFO, bruit, sample & hold, atténuateurs, mixeur CV et lag.
-
-Le but est de comprendre et d'explorer les interactions entre les blocs d'un synthétiseur, **pas de reproduire les circuits propriétaires d'une machine existante**. Compilation et tests automatisés Windows documentés ; **l'écoute et la validation dans Ableton restent à confirmer**. **[Sources et tests](https://github.com/olivershadd-star/MOOGER)**.
+**[Lire le fonctionnement, l'installation et les exports](https://github.com/olivershadd-star/STAKER)**
 
 ---
 
-<a href="https://github.com/olivershadd-star/MODULAR"><img src="assets/card-modular.svg" alt="MODULAR — ANKS Labs" width="100%" /></a>
+## 04 // SYNTHESIZERS — INSTRUMENTS & DSP
 
-![MODULAR](https://img.shields.io/badge/STATUS-ALPHA_1.3.4-EF343E?style=flat-square&labelColor=10151E) ![JUCE](https://img.shields.io/badge/ENGINE-C%2B%2B_JUCE-19B9FF?style=flat-square&labelColor=10151E)
+<a href="https://github.com/olivershadd-star/MS1"><img src="assets/card-ms1.svg" alt="MS1 — synthétiseur wavetable expérimental" width="100%" /></a>
 
-**[MODULAR / ANKS Resonant Lab](https://github.com/olivershadd-star/MODULAR)** est un laboratoire de **synthèse hybride VST3 et standalone Windows**. Il combine les **excitations WAV** et sources internes, un **double corps résonant**, une **FM à deux opérateurs** et des modules de traitement réordonnables.
+![MS1](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-EF343E?style=flat-square&labelColor=10151E) ![VST3](https://img.shields.io/badge/FORMAT-JUCE_VST3-19B9FF?style=flat-square&labelColor=10151E)
 
-Le moteur explore notamment les textures granulaires, la matière résonante, le **frequency shifting**, le **freeze spectral** et les interactions entre sources et traitements. Les performances et les limites du DSP font partie intégrante du travail. **Statut : alpha expérimentale, en développement**. **[Documentation et architecture](https://github.com/olivershadd-star/MODULAR)**.
+**[MS1](https://github.com/olivershadd-star/MS1)** continue d'évoluer. Ce synthétiseur **wavetable C++ / JUCE** travaille l'unison, le filtrage, les LFO, les enveloppes, le séquenceur pas à pas et les presets. Les évolutions documentées comprennent aussi des réglages de macros, le **MIDI Learn** et un rack de **quatre emplacements d'effets** réordonnables.
 
----
-
-<a href="https://github.com/olivershadd-star/SWARM"><img src="assets/card-swarm.svg" alt="SWARM / 01 — ANKS Labs" width="100%" /></a>
-
-![SWARM](https://img.shields.io/badge/STATUS-PROTOTYPE_V0.2-EF343E?style=flat-square&labelColor=10151E) ![DSP](https://img.shields.io/badge/DSP-AUDIO_TESTED-19B9FF?style=flat-square&labelColor=10151E)
-
-**[SWARM / 01](https://github.com/olivershadd-star/SWARM)** développe un synthétiseur original à **deux bancs de sept oscillateurs PolyBLEP**, avec détune, stéréo, filtre résonant et **morphing XY entre quatre scènes**. Il sert à étudier les nappes larges, les mouvements de timbre et le contrôle expressif.
-
-**Statut : moteur DSP testé hors JUCE ; VST3 et standalone Windows encore à valider sur la machine cible.** Ce n'est pas une version stable. **[Architecture et sources](https://github.com/olivershadd-star/SWARM)**.
+MS1 explore des méthodes de sound design associées aux synthétiseurs modernes, sans reproduire le code propriétaire de Massive ou Serum. **Statut : prototype VST3 expérimental**, tests et validation en DAW à poursuivre. [**Dépôt et builds**](https://github.com/olivershadd-star/MS1/actions).
 
 ---
 
-## 04 // AUTOMATION · MIDI TOOLS · FX
+<a href="https://github.com/olivershadd-star/MODULAR"><img src="assets/card-modular.svg" alt="Modular — synthèse hybride et traitements DSP" width="100%" /></a>
 
-Ici, on quitte les synthétiseurs pour se concentrer sur **ce qui contrôle, module, transforme ou détruit le son** : automation de paramètres, séquençage de courbes, routage MIDI et effets. Les expérimentations visent notamment **Ableton Live**, le **format VST3** et, lorsque c'est pertinent, **Max for Live**.
+![Modular](https://img.shields.io/badge/STATUS-ALPHA_1.4.3-EF343E?style=flat-square&labelColor=10151E) ![FX](https://img.shields.io/badge/ENGINE-13_TREATMENTS-19B9FF?style=flat-square&labelColor=10151E)
 
-<a href="https://github.com/olivershadd-star/CURVE-PILOT"><img src="assets/card-curve-pilot.svg" alt="CURVE PILOT — ANKS Labs" width="100%" /></a>
+**[MODULAR](https://github.com/olivershadd-star/MODULAR)** — laboratoire de synthèse hybride VST3 / standalone. La **version 1.4 alpha 3** documente désormais **six emplacements** pour **treize traitements**, avec excitations WAV, deux corps résonants, FM, filtre, saturation, granulaire, delay, chorus, frequency shifting, freeze spectral, ring modulation, bitcrusher, phaser et comb.
 
-**[CURVE PILOT](https://github.com/olivershadd-star/CURVE-PILOT)** — outil de **dessin graphique de courbes** et de **pilotage de paramètres d'instruments hébergés**. Le projet explore plusieurs lignes d'automation, des formes complexes, les modifications sur une ou plusieurs mesures et la connexion à un instrument VST3 chargé.
-
-**Statut : développement expérimental** ; les questions de charge CPU, de stabilité du host et de dialogue avec les plugins sont prioritaires. **[Voir le projet](https://github.com/olivershadd-star/CURVE-PILOT)**.
+Le projet s'intéresse autant au son qu'aux limites réelles du DSP : coût CPU, chaînes d'effets et comportement des modules. **Statut : alpha expérimentale.** [**Sources, builds et rapports**](https://github.com/olivershadd-star/MODULAR).
 
 ---
 
-<a href="https://github.com/olivershadd-star/Curve-Mini"><img src="assets/card-curve-mini.svg" alt="CURVE MINI — ANKS Labs" width="100%" /></a>
+<a href="https://github.com/olivershadd-star/MOOGER"><img src="assets/card-mooger.svg" alt="Mooger — synthétiseur semi-modulaire" width="100%" /></a>
 
-**[CURVE MINI](https://github.com/olivershadd-star/Curve-Mini)** — recherche autour d'un éditeur de courbes plus léger, et des limites du pilotage de macros externes par un simple VST3. Cette piste a permis de mieux cerner ce qui exige un hébergement ou une intégration au DAW.
-
-**Statut : expérimentation archivée ; ne pas considérer comme plugin universel prêt à l'emploi.** **[Lire le retour d'expérience](https://github.com/olivershadd-star/Curve-Mini)**.
+**[MOOGER](https://github.com/olivershadd-star/MOOGER)** — synthétiseur semi-modulaire original avec **deux oscillateurs, VCF/VCA, patching, séquenceur huit pas, modulation CV et voix de percussion indépendante**. **Prototype v0.5**, compilations Windows documentées, écoute dans Ableton encore à valider. Ce n'est pas une émulation fidèle d'un circuit Moog.
 
 ---
 
-<a href="https://github.com/olivershadd-star/CURVE-EDITOR-M4L"><img src="assets/card-curve-editor.svg" alt="CURVE EDITOR M4L — ANKS Labs" width="100%" /></a>
+<a href="https://github.com/olivershadd-star/SWARM"><img src="assets/card-swarm.svg" alt="SWARM — synthèse à deux essaims et morphing XY" width="100%" /></a>
 
-**[CURVE EDITOR M4L](https://github.com/olivershadd-star/CURVE-EDITOR-M4L)** — piste d'intégration **Max for Live / Ableton Live** pour dessiner des courbes et agir plus directement sur des paramètres ou des macros, à l'échelle d'une mesure comme d'une séquence.
-
-**Statut : projet en préparation, aucun patch prêt à installer annoncé.** **[Consulter le dépôt](https://github.com/olivershadd-star/CURVE-EDITOR-M4L)**.
+**[SWARM / 01](https://github.com/olivershadd-star/SWARM)** — deux bancs de **sept oscillateurs PolyBLEP**, detune, stéréo, filtre résonant et morphing XY entre quatre scènes. **Prototype** ; moteur DSP testé indépendamment, validation complète VST3 / Windows toujours distincte.
 
 ---
 
-<a href="https://github.com/olivershadd-star/FRAGMENT-ENGINE"><img src="assets/card-fragment.svg" alt="FRAGMENT ENGINE — ANKS Labs" width="100%" /></a>
+## 05 // MAX FOR LIVE — GENERATION & MIDI CURVES
 
-![FRAGMENT](https://img.shields.io/badge/FX-PROTOTYPE_0.3.0-EF343E?style=flat-square&labelColor=10151E)
+Deux approches complémentaires pour **Ableton Live** : l'une produit des **notes et des lignes MIDI**, l'autre dessine des **courbes de contrôle MIDI CC**. Ce ne sont pas deux synthétiseurs : ils servent à écrire, générer ou faire évoluer ce qui pilote les instruments.
 
-**[FRAGMENT ENGINE](https://github.com/olivershadd-star/FRAGMENT-ENGINE)** — effet **stutter / beat repeat** synchronisé au transport : capture de fragments courts, répétitions rythmiques, réglages Stutter / Refresh et transformations de hauteur en modes Pattern ou Step. Le DSP C++20 se développe indépendamment du SDK hôte.
+<a href="https://github.com/olivershadd-star/MLG-Alpha"><img src="assets/card-mlg-alpha.svg" alt="MLG Alpha — MIDI Line Generator Max for Live" width="100%" /></a>
 
-**Statut : prototype VST3 ; tests du moteur et sous Linux documentés, validation Windows / Ableton à poursuivre.** **[Code et documentation](https://github.com/olivershadd-star/FRAGMENT-ENGINE)**.
+![M4L](https://img.shields.io/badge/MAX_FOR_LIVE-MIDI_GENERATOR-19B9FF?style=flat-square&labelColor=10151E) ![Alpha](https://img.shields.io/badge/STATUS-ALPHA-EF343E?style=flat-square&labelColor=10151E)
 
----
+**[MLG Alpha — MIDI Line Generator](https://github.com/olivershadd-star/MLG-Alpha)** est une **boîte à idées MIDI** pour Ableton : lignes rythmiques et mélodiques, basses, arpèges, nappes et percussions. On règle des paramètres musicaux ou on décrit une intention en quelques mots ; le logiciel guide la génération plutôt que de jeter des notes complètement au hasard.
 
-<img src="assets/card-triple.svg" alt="TRIPLE DRIVE — ANKS Labs, distortion multistage" width="100%" />
+Le dépôt décrit une bibliothèque de **32 888 lignes MIDI**, un générateur aléatoire ou euclidien, des gammes, des seeds, des variations, des favoris et l'écriture des résultats dans des clips Ableton. **Le son provient de l'instrument placé après MLG dans la piste.**
 
-**TRIPLE DRIVE** — expérimentation autour d'une **distorsion VST3 à trois étages**, chacun contrôlable ou désactivable indépendamment. L'objectif est d'obtenir un grain dense mais maîtrisé, avec une architecture exploitable sans empiler inutilement plusieurs plugins.
-
-**Statut : projet privé, en évolution ; aucune version publique ni lien de téléchargement annoncé pour l'instant.**
+**Statut : version alpha Max for Live ;** le README du projet détaille les limites de test, l'installation et la bibliothèque. [**Découvrir MLG Alpha**](https://github.com/olivershadd-star/MLG-Alpha).
 
 ---
 
-## 05 // OPEN-SOURCE RESEARCH & ADAPTATIONS
+<a href="https://github.com/olivershadd-star/CURVE-EDITOR-M4L"><img src="assets/card-curve-editor.svg" alt="Curve Editor M4L — huit lignes de courbes MIDI CC" width="100%" /></a>
+
+![M4L](https://img.shields.io/badge/MAX_FOR_LIVE-CURVE_EDITOR-19B9FF?style=flat-square&labelColor=10151E)
+
+**[CURVE EDITOR M4L](https://github.com/olivershadd-star/CURVE-EDITOR-M4L)** est l'évolution de la recherche Curve Mini vers une **véritable intégration Max for Live**. Il propose **huit lignes de courbes MIDI CC**, chacune avec son canal et son contrôleur assignables, un panneau compact dans Live, un éditeur séparé avec pages **Courbe / Destination / Décrire-Code**, ainsi que des fonctions d'import/export.
+
+Le développement a franchi une étape importante vers un outil utilisable dans Live ; le dépôt conserve également une feuille de tests à vérifier selon l'installation. **[Installer et comprendre le fonctionnement](https://github.com/olivershadd-star/CURVE-EDITOR-M4L)**.
+
+---
+
+## 06 // AUDIO FX — EFFECTS, REPEATS & PROCESSING
+
+<a href="https://github.com/olivershadd-star/ANKS-FX-SUITE"><img src="assets/card-fx-suite.svg" alt="ANKS FX Suite — regroupement des effets audio" width="100%" /></a>
+
+![FX](https://img.shields.io/badge/PROJECT-FX_SUITE-EF343E?style=flat-square&labelColor=10151E) ![Development](https://img.shields.io/badge/PLANNED_COLLECTION-23_EFFECTS-19B9FF?style=flat-square&labelColor=10151E)
+
+**[ANKS FX SUITE](https://github.com/olivershadd-star/ANKS-FX-SUITE)** devient le **point de regroupement des effets développés au laboratoire**. Plutôt que de multiplier un repository pour chaque distorsion, filtre ou transformation, le travail est maintenant organisé autour d'une **suite de 23 effets** en développement, avec notamment le moteur de **Triple Drive**, la distorsion à trois étages.
+
+Cette première suite est pensée comme une base évolutive ; d'autres collections pourront apparaître si nécessaire. **Statut : structuration en cours.** Le repository public existe, mais il est pour l'instant **sans README consultable** : aucune suite complète ni téléchargement des 23 effets n'est annoncé ici.
+
+---
+
+<a href="https://github.com/olivershadd-star/BEAT-JUGGLING"><img src="assets/card-beat-juggling.svg" alt="Beat Juggling — passe-passe entre deux platines virtuelles" width="100%" /></a>
+
+![Beat Juggling](https://img.shields.io/badge/VST3-TWO_DECKS-19B9FF?style=flat-square&labelColor=10151E)
+
+**[BEAT JUGGLING](https://github.com/olivershadd-star/BEAT-JUGGLING)** n'est pas simplement un effet inséré sur une piste : c'est un **module de passe-passe séquencé**, sous forme d'instrument VST3 pour Ableton. Deux platines virtuelles reçoivent des sons ; on prépare des **blocs de lecture, de scratch, de backspin, de roll, d'arrêt ou d'inversion**, puis on les enchaîne au tempo.
+
+Quatre patterns indépendants permettent de construire et d'alterner ces séquences, avec édition directe des zones sur la forme d'onde et outils pour recaler le BPM. **Le dépôt fournit les instructions de compilation et de récupération du VST3 depuis GitHub Actions.** [**Lire l'explication complète](https://github.com/olivershadd-star/BEAT-JUGGLING)**.
+
+---
+
+<a href="https://github.com/olivershadd-star/FRAGMENT-ENGINE"><img src="assets/card-fragment.svg" alt="Fragment Engine — stutter et répétitions rythmiques" width="100%" /></a>
+
+**[FRAGMENT ENGINE](https://github.com/olivershadd-star/FRAGMENT-ENGINE)** — prototype d'effet **stutter / beat repeat** synchronisé : capture de fragments courts, répétitions, déclinaisons rythmiques et variations de hauteur en modes Pattern ou Step. **Prototype VST3 0.3.0**, tests moteur/Linux documentés, validation Windows/Ableton à poursuivre.
+
+---
+
+## 07 // AUTOMATION RESEARCH — CURVE PILOT & LEGACY
+
+<a href="https://github.com/olivershadd-star/CURVE-PILOT"><img src="assets/card-curve-pilot.svg" alt="Curve Pilot — hébergement d'instruments VST3 et courbes" width="100%" /></a>
+
+**[CURVE PILOT](https://github.com/olivershadd-star/CURVE-PILOT)** reste le chantier autour de l'**hébergement d'instruments VST3** et du pilotage de leurs paramètres par des courbes graphiques. La stabilité, la communication avec les plugins et la consommation CPU restent prioritaires. **Développement expérimental, pas de release stable annoncée.**
+
+**[CURVE MINI](https://github.com/olivershadd-star/Curve-Mini)** est une piste expérimentale plus ancienne, archivée après l'étude des limites du contrôle de macros externes par VST3. Elle a notamment nourri l'approche **Curve Editor M4L**.
+
+## 08 // OPEN-SOURCE RESEARCH & ADAPTATIONS
 
 <img src="assets/card-mango.svg" alt="MANGO — étude open source, laboratoire ANKS Labs" width="100%" />
 
@@ -206,7 +218,7 @@ Ici, on quitte les synthétiseurs pour se concentrer sur **ce qui contrôle, mod
 
 L'intégration de **surfaces MIDI Akai, Maschine+ et d'autres contrôleurs** relève quant à elle de la recherche sur les interfaces et les usages matériels ; ce n'est pas une revendication de code open source provenant de ces marques.
 
-## 06 // IA MUSICALE · PROMPTS · VIBE CODING
+## 09 // IA MUSICALE · PROMPTS · VIBE CODING
 
 Au-delà des VST et des machines, ANKS Labs développe aussi **des méthodes** :
 
@@ -219,14 +231,14 @@ Au-delà des VST et des machines, ANKS Labs développe aussi **des méthodes** :
 
 ---
 
-## 07 // PARTAGE, LICENCES & CONTRIBUTIONS
+## 10 // PARTAGE, LICENCES & CONTRIBUTIONS
 
 **Vous êtes libre d'écouter, de tester, de vous inspirer et, dans les conditions prévues par les licences, de modifier les projets.** Les retours, variantes et contributions sont particulièrement bienvenus.
 
 **Le souhait d'ANKS Labs est la réciprocité** : si un projet vous donne des idées et que vous en faites une autre version, partager les modifications, les retours d'expérience ou le lien vers votre fork permet à tout le monde de progresser. Vous n'avez pas besoin d'être développeur pour profiter des versions publiées.
 
 **Mais la philosophie de partage n'est pas une licence juridique.** Chaque dépôt indique les droits applicables :
-- **KICK Lab** s'appuie sur le code Music Tribe sous **AGPL-3.0-or-later**, avec des dépendances relevant de leurs propres licences. En cas de redistribution de versions modifiées, les obligations légales correspondantes doivent être respectées.
+- **KICK** s'appuie sur le code Music Tribe sous **AGPL-3.0-or-later**, avec des dépendances relevant de leurs propres licences. En cas de redistribution de versions modifiées, les obligations légales correspondantes doivent être respectées.
 - **Curve Mini** contient une licence MIT ; d'autres prototypes peuvent avoir des conditions différentes.
 - **Un dépôt public n'est pas automatiquement open source** : sans licence accordant des droits, la visibilité du code ne vaut pas autorisation générale de le redistribuer ou d'en faire une œuvre dérivée.
 - Pour les projets originaux futurs, le choix d'une licence favorisant réellement le partage des améliorations devra être **examiné séparément**, en tenant compte du code tiers et des dépendances.
@@ -235,7 +247,7 @@ Les marques **Behringer, Music Tribe, Akai, Native Instruments, Maschine, Massiv
 
 ---
 
-## 08 // CONTACT · ÉCHANGE · PARTICIPATION
+## 11 // CONTACT · ÉCHANGE · PARTICIPATION
 
 Vous avez testé une version ? Vous avez développé une variante ? Un bug corrigé, une interface différente, un module amélioré, une idée de workflow ou simplement une remarque sur le son ?
 
