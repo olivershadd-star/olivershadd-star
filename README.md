@@ -16,13 +16,15 @@
 
 <div align="center">
 
-[**SYNTHS & DRUM MACHINES**](#synthesizers--drum-machines) · [**MIDI / AUTOMATION**](#midi-generation--automation) · [**EFFECTS**](#audio-effects--processors) · [**APPLICATIONS**](#standalone-applications)
+[**SYNTHS, DRUMS & SEQUENCERS**](#synthesizers-drum-machines--sequencers) · [**MIDI / AUTOMATION**](#midi-generation--automation) · [**EFFECTS**](#audio-effects--processors) · [**APPLICATIONS**](#standalone-applications)
+
+<sub>Le bouton rouge **TÉLÉCHARGER** de chaque projet affiche toujours le numéro de la **dernière version** et mène directement à son téléchargement, sans passer par le code. / The red **DOWNLOAD** button always shows the **latest version** number and takes you straight to it.</sub>
 
 </div>
 
 ---
 
-## SYNTHESIZERS & DRUM MACHINES
+## SYNTHESIZERS, DRUM MACHINES & SEQUENCERS
 
 <a href="https://github.com/olivershadd-star/Berhinger-Kick"><img src="assets/projects/kick.svg" width="100%" alt="KICK — illustration technique ANKS Labs" /></a>
 
@@ -30,7 +32,22 @@
 
 *An independent Windows port of the original KICK drum machine. Sequencer first, expanded groovebox later.*
 
-<sub>**Preview 0.24.2 · version de test** · [Dépôt](https://github.com/olivershadd-star/Berhinger-Kick) · [Télécharger la preview](https://github.com/olivershadd-star/Berhinger-Kick/releases/tag/v0.24.2-preview)</sub>
+<a href="https://github.com/olivershadd-star/Berhinger-Kick/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/Berhinger-Kick?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de KICK / Download the latest KICK" /></a>
+
+<sub>**Preview · version de test** · [Dépôt](https://github.com/olivershadd-star/Berhinger-Kick) · [Toutes les versions](https://github.com/olivershadd-star/Berhinger-Kick/releases)</sub>
+
+
+---
+
+<a href="https://github.com/olivershadd-star/KINETAKT"><img src="assets/projects/kinetakt.svg" width="100%" alt="KINETAKT — illustration technique ANKS Labs" /></a>
+
+**KINETAKT** *(anciennement ELEKTAKT)* — **Séquenceur pas à pas** pour Windows, en **application autonome et en VST3 pour Ableton Live** (Live Lite compris). Inspiré de la façon de travailler des machines Elektron : **parameter locks** par pas, **trig conditions**, probabilités, micro-timing, retrigs, **longueur et vitesse par piste**, scènes avec crossfader, LFO, générateur de motifs. Chaque piste joue un **sample** ou envoie des **notes MIDI**. Rééchantillonnage, découpage, réverbe et delay partagés, 8 sorties séparées dans Live. Construit sur le moteur audio de **KICK**.
+
+*A free step sequencer for Windows, as a standalone app and a VST3 for Ableton Live: per-step parameter locks, trig conditions, per-track length and speed, scenes, sample and MIDI tracks. Inspired by the Elektron workflow; an independent project.*
+
+<a href="https://github.com/olivershadd-star/KINETAKT/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/KINETAKT?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de KINETAKT / Download the latest KINETAKT" /></a>
+
+<sub>**Preview · application Windows + VST3** · [Dépôt & mode d'emploi](https://github.com/olivershadd-star/KINETAKT) · [Toutes les versions](https://github.com/olivershadd-star/KINETAKT/releases)</sub>
 
 
 ---
@@ -41,7 +58,9 @@
 
 *A wavetable synthesizer with modulation, effects, presets and sequencing — actively developed, not yet a polished final release.*
 
-<sub>**Version de test · développement actif** · [Dépôt](https://github.com/olivershadd-star/MS1) · [Téléchargements disponibles](https://github.com/olivershadd-star/MS1/releases/latest)</sub>
+<a href="https://github.com/olivershadd-star/MS1/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/MS1?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de MS1 / Download the latest MS1" /></a>
+
+<sub>**Version de test · développement actif** · [Dépôt](https://github.com/olivershadd-star/MS1) · [Toutes les versions](https://github.com/olivershadd-star/MS1/releases)</sub>
 
 
 ---
