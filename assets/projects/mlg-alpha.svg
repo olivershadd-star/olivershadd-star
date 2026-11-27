@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="MLG ALPHA - illustration technique : MIDI LINE GENERATOR / M4L">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
+<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
+<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
+<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700" letter-spacing="1.7">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="72" font-weight="800" >MLG ALPHA</text>
+<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700" letter-spacing="1.3">MIDI LINE GENERATOR / M4L</text>
+<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
+<rect x="492" y="24" width="531" height="170" rx="8" fill="#101D2B" stroke="#19B9FF" stroke-width="2"/>
+<text x="512" y="43" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="700" >MIDI GENERATOR / PIANO ROLL</text>
+<line x1="522" y1="52" x2="522" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="548" y1="52" x2="548" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="574" y1="52" x2="574" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="600" y1="52" x2="600" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="626" y1="52" x2="626" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="652" y1="52" x2="652" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="678" y1="52" x2="678" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="704" y1="52" x2="704" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="730" y1="52" x2="730" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="756" y1="52" x2="756" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="782" y1="52" x2="782" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="808" y1="52" x2="808" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="834" y1="52" x2="834" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="860" y1="52" x2="860" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="886" y1="52" x2="886" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="912" y1="52" x2="912" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="938" y1="52" x2="938" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="964" y1="52" x2="964" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="990" y1="52" x2="990" y2="165" stroke="#2A4157" stroke-width="1" opacity="1"/>
+<line x1="514" y1="56" x2="1000" y2="56" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="72" x2="1000" y2="72" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="88" x2="1000" y2="88" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="104" x2="1000" y2="104" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="120" x2="1000" y2="120" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="136" x2="1000" y2="136" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="152" x2="1000" y2="152" stroke="#33465D" stroke-width="1" opacity="1"/>
+<line x1="514" y1="168" x2="1000" y2="168" stroke="#33465D" stroke-width="1" opacity="1"/>
+<rect x="522" y="155" width="47" height="11" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="0.5"/>
+<rect x="574" y="123" width="47" height="11" rx="2" fill="#19B9FF" stroke="#19B9FF" stroke-width="0.5"/>
+<rect x="626" y="91" width="73" height="11" rx="2" fill="#19B9FF" stroke="#19B9FF" stroke-width="0.5"/>
+<rect x="704" y="123" width="47" height="11" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="0.5"/>
+<rect x="756" y="139" width="47" height="11" rx="2" fill="#19B9FF" stroke="#19B9FF" stroke-width="0.5"/>
+<rect x="808" y="75" width="47" height="11" rx="2" fill="#19B9FF" stroke="#19B9FF" stroke-width="0.5"/>
+<rect x="860" y="107" width="73" height="11" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="0.5"/>
+<rect x="938" y="91" width="47" height="11" rx="2" fill="#19B9FF" stroke="#19B9FF" stroke-width="0.5"/>
+<text x="840" y="182" font-family="Segoe UI,Arial,sans-serif" fill="#7790A6" font-size="10" font-weight="500" >SEED • SCALE • RHYTHM</text>
+<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+</svg>
