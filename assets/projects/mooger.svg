@@ -1,34 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="MOOGER - illustration technique : SEMI-MODULAR / PATCHING">
-<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
-<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
-<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
-<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700" letter-spacing="1.7">ANKS LABS // AUDIO DEVELOPMENT</text>
-<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="65" font-weight="800" >MOOGER</text>
-<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700" letter-spacing="1.3">SEMI-MODULAR / PATCHING</text>
-<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
-<rect x="497" y="24" width="527" height="169" rx="8" fill="#101D2B" stroke="#19B9FF" stroke-width="2"/>
-<text x="515" y="43" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="700" >SEMI-MODULAR  /  CV PATCHING</text>
-<circle cx="530" cy="79" r="12" fill="#122536" stroke="#EF343E" stroke-width="2"/>
-<circle cx="571" cy="79" r="12" fill="#122536" stroke="#19B9FF" stroke-width="2"/>
-<circle cx="612" cy="79" r="12" fill="#122536" stroke="#19B9FF" stroke-width="2"/>
-<circle cx="653" cy="79" r="12" fill="#122536" stroke="#EF343E" stroke-width="2"/>
-<circle cx="694" cy="79" r="12" fill="#122536" stroke="#19B9FF" stroke-width="2"/>
-<circle cx="735" cy="79" r="12" fill="#122536" stroke="#19B9FF" stroke-width="2"/>
-<circle cx="783" cy="80" r="7" fill="#09131F" stroke="#F5C343" stroke-width="2"/>
-<circle cx="820" cy="80" r="7" fill="#09131F" stroke="#EF343E" stroke-width="2"/>
-<circle cx="857" cy="80" r="7" fill="#09131F" stroke="#F5C343" stroke-width="2"/>
-<circle cx="894" cy="80" r="7" fill="#09131F" stroke="#EF343E" stroke-width="2"/>
-<circle cx="931" cy="80" r="7" fill="#09131F" stroke="#F5C343" stroke-width="2"/>
-<circle cx="968" cy="80" r="7" fill="#09131F" stroke="#EF343E" stroke-width="2"/>
-<path d="M783 80 Q748 122 664 83 M820 80 Q799 153 614 80 M859 80 Q884 135 715 80" fill="none" stroke="#F5C343" stroke-width="2.6" opacity=".8"/>
-<rect x="528" y="143" width="41" height="20" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
-<rect x="582" y="143" width="41" height="20" rx="2" fill="#284257" stroke="#19B9FF" stroke-width="1"/>
-<rect x="636" y="143" width="41" height="20" rx="2" fill="#284257" stroke="#19B9FF" stroke-width="1"/>
-<rect x="690" y="143" width="41" height="20" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
-<rect x="744" y="143" width="41" height="20" rx="2" fill="#284257" stroke="#19B9FF" stroke-width="1"/>
-<rect x="798" y="143" width="41" height="20" rx="2" fill="#284257" stroke="#19B9FF" stroke-width="1"/>
-<rect x="852" y="143" width="41" height="20" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
-<rect x="906" y="143" width="41" height="20" rx="2" fill="#284257" stroke="#19B9FF" stroke-width="1"/>
-<text x="531" y="181" font-family="Segoe UI,Arial,sans-serif" fill="#7790A6" font-size="10" font-weight="500" >VCO 1 + VCO 2  ·  FILTER  ·  DRUM VOICE</text>
-<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="MOOGER — SEMI-MODULAR / ANALOG WORKFLOW / CV">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0.1" y2="0.8"><stop stop-color="#090C13"/><stop offset=".6" stop-color="#171B26"/><stop offset="1" stop-color="#090D15"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#273648"/></pattern></defs>
+<rect width="1200" height="260" fill="url(#bg)"/><rect width="1200" height="260" fill="url(#dots)" opacity=".78"/>
+<path d="M0 0H16L109 260H92Z" fill="#EF343E" opacity=".88"/><path d="M25 0H32L121 260H114Z" fill="#F5C343" opacity=".85"/>
+<path d="M20 220L322 220L357 196H570L596 216H730L780 169H914L967 121H1200" fill="none" stroke="#19B9FF" stroke-width="3" opacity=".4"/>
+<path d="M460 21H630L663 55H836L870 29H1200" fill="none" stroke="#EF343E" stroke-width="2" opacity=".38"/>
+<circle cx="596" cy="216" r="5" fill="#EF343E"/><circle cx="780" cy="169" r="4" fill="#F5C343"/><circle cx="967" cy="121" r="4" fill="#19B9FF"/>
+<path d="M981 0V260M1002 0V260" stroke="#EF343E" opacity=".13" stroke-width="2"/>
+<g transform="translate(807 70) scale(.98)"><g transform="translate(0 0)" opacity=".95"><rect x="6" y="8" width="141" height="83" rx="3" fill="#102133" stroke="#35536b" stroke-width="1"/><circle cx="23" cy="27" r="9" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><line x1="23" y1="27" x2="25" y2="20" stroke="#F5C343" stroke-width="1.5" opacity="1"/><circle cx="50" cy="27" r="9" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><line x1="50" y1="27" x2="52" y2="20" stroke="#F5C343" stroke-width="1.5" opacity="1"/><circle cx="77" cy="27" r="9" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><line x1="77" y1="27" x2="79" y2="20" stroke="#F5C343" stroke-width="1.5" opacity="1"/><circle cx="104" cy="27" r="9" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><line x1="104" y1="27" x2="106" y2="20" stroke="#F5C343" stroke-width="1.5" opacity="1"/><circle cx="131" cy="27" r="9" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><line x1="131" y1="27" x2="133" y2="20" stroke="#F5C343" stroke-width="1.5" opacity="1"/><circle cx="20" cy="73" r="5" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="43" cy="73" r="5" fill="#0d1b2a" stroke="#F5C343" stroke-width="1.5"/><circle cx="66" cy="73" r="5" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="89" cy="73" r="5" fill="#0d1b2a" stroke="#F5C343" stroke-width="1.5"/><circle cx="112" cy="73" r="5" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="135" cy="73" r="5" fill="#0d1b2a" stroke="#F5C343" stroke-width="1.5"/><path d="M20 73C22 45 63 44 66 73M89 73C105 46 122 42 135 73" fill="none" stroke="#EF343E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<rect x="53" y="27" rx="2" width="33" height="5" fill="#F5C343"/><text x="95" y="35" font-size="15" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" letter-spacing="3">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="64" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="78" letter-spacing="2" font-weight="800" fill="#F7FAFF">MOOGER</text>
+<text x="67" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1.7" font-weight="600" fill="#B8C9DD">SEMI-MODULAR / ANALOG WORKFLOW / CV</text>
+<rect x="66" y="204" width="370" height="2" fill="#EF343E"/>
+<rect x="978" y="40" width="173" height="123" rx="2" fill="#0C1420" stroke="#19B9FF" stroke-width="2" stroke-opacity=".6"/>
+<text x="1001" y="93" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" letter-spacing="1.3" fill="#E9F4FF">ANKS</text>
+<path d="M1002 108H1131" stroke="#EF343E" stroke-width="5"/><text x="1002" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="10" fill="#19B9FF">LABS</text>
+<text x="986" y="199" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#F5C343" letter-spacing="1">SYNTH · PROTOTYPE</text>
+<rect y="249" width="1200" height="11" fill="#EF343E"/><rect x="880" y="249" width="142" height="11" fill="#F5C343"/><rect x="1022" y="249" width="178" height="11" fill="#19B9FF"/>
 </svg>
