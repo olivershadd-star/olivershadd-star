@@ -1,72 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="MODULAR - illustration technique : HYBRID DSP / SIX MODULES">
-<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
-<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
-<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
-<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700" letter-spacing="1.7">ANKS LABS // AUDIO DEVELOPMENT</text>
-<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="65" font-weight="800" >MODULAR</text>
-<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700" letter-spacing="1.3">HYBRID DSP / SIX MODULES</text>
-<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
-<rect x="493" y="23" width="529" height="173" rx="7" fill="#101D2B" stroke="#19B9FF" stroke-width="2"/>
-<text x="512" y="39" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="700" >6 MODULE SLOTS  /  DSP CHAIN</text>
-<rect x="511" y="48" width="158" height="63" rx="3" fill="#122436" stroke="#19B9FF" stroke-width="1"/>
-<text x="518" y="61" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="10" font-weight="700" >RESONATOR</text>
-<circle cx="528" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="528" y1="86" x2="531" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="559" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="559" y1="86" x2="562" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="590" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="590" y1="86" x2="593" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="621" cy="86" r="8" fill="#071522" stroke="#F5C343" stroke-width="1"/>
-<line x1="621" y1="86" x2="624" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<rect x="680" y="48" width="158" height="63" rx="3" fill="#122436" stroke="#EF343E" stroke-width="1"/>
-<text x="687" y="61" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="10" font-weight="700" >FILTER / EQ</text>
-<circle cx="697" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="697" y1="86" x2="700" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="728" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="728" y1="86" x2="731" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="759" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="759" y1="86" x2="762" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="790" cy="86" r="8" fill="#071522" stroke="#F5C343" stroke-width="1"/>
-<line x1="790" y1="86" x2="793" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<rect x="849" y="48" width="158" height="63" rx="3" fill="#122436" stroke="#19B9FF" stroke-width="1"/>
-<text x="856" y="61" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="10" font-weight="700" >GRANULAR</text>
-<circle cx="866" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="866" y1="86" x2="869" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="897" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="897" y1="86" x2="900" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="928" cy="86" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="928" y1="86" x2="931" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="959" cy="86" r="8" fill="#071522" stroke="#F5C343" stroke-width="1"/>
-<line x1="959" y1="86" x2="962" y2="80" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<rect x="511" y="118" width="158" height="63" rx="3" fill="#122436" stroke="#19B9FF" stroke-width="1"/>
-<text x="518" y="131" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="10" font-weight="700" >DELAY</text>
-<circle cx="528" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="528" y1="156" x2="531" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="559" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="559" y1="156" x2="562" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="590" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="590" y1="156" x2="593" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="621" cy="156" r="8" fill="#071522" stroke="#F5C343" stroke-width="1"/>
-<line x1="621" y1="156" x2="624" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<rect x="680" y="118" width="158" height="63" rx="3" fill="#122436" stroke="#EF343E" stroke-width="1"/>
-<text x="687" y="131" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="10" font-weight="700" >FREEZE</text>
-<circle cx="697" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="697" y1="156" x2="700" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="728" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="728" y1="156" x2="731" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="759" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="759" y1="156" x2="762" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="790" cy="156" r="8" fill="#071522" stroke="#F5C343" stroke-width="1"/>
-<line x1="790" y1="156" x2="793" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<rect x="849" y="118" width="158" height="63" rx="3" fill="#122436" stroke="#19B9FF" stroke-width="1"/>
-<text x="856" y="131" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="10" font-weight="700" >PHASER</text>
-<circle cx="866" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="866" y1="156" x2="869" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="897" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="897" y1="156" x2="900" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="928" cy="156" r="8" fill="#071522" stroke="#19B9FF" stroke-width="1"/>
-<line x1="928" y1="156" x2="931" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<circle cx="959" cy="156" r="8" fill="#071522" stroke="#F5C343" stroke-width="1"/>
-<line x1="959" y1="156" x2="962" y2="150" stroke="#F5C343" stroke-width="1" opacity="1"/>
-<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="MODULAR — HYBRID DSP / RESONANCE / FM / WAV">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0.1" y2="0.8"><stop stop-color="#090C13"/><stop offset=".6" stop-color="#171B26"/><stop offset="1" stop-color="#090D15"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#273648"/></pattern></defs>
+<rect width="1200" height="260" fill="url(#bg)"/><rect width="1200" height="260" fill="url(#dots)" opacity=".78"/>
+<path d="M0 0H16L109 260H92Z" fill="#19B9FF" opacity=".88"/><path d="M25 0H32L121 260H114Z" fill="#F5C343" opacity=".85"/>
+<path d="M20 220L322 220L357 196H570L596 216H730L780 169H914L967 121H1200" fill="none" stroke="#EF343E" stroke-width="3" opacity=".4"/>
+<path d="M460 21H630L663 55H836L870 29H1200" fill="none" stroke="#19B9FF" stroke-width="2" opacity=".38"/>
+<circle cx="596" cy="216" r="5" fill="#19B9FF"/><circle cx="780" cy="169" r="4" fill="#F5C343"/><circle cx="967" cy="121" r="4" fill="#EF343E"/>
+<path d="M981 0V260M1002 0V260" stroke="#19B9FF" opacity=".13" stroke-width="2"/>
+<g transform="translate(807 70) scale(.98)"><g transform="translate(0 0)" opacity=".95"><rect x="6" y="9" width="44" height="39" rx="2" fill="#102133" stroke="#19B9FF" stroke-width="1"/><line x1="12" y1="18" x2="43" y2="18" stroke="#F5C343" stroke-width="1" opacity="1"/><circle cx="16" cy="34" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><circle cx="28" cy="34" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><circle cx="40" cy="34" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><rect x="55" y="9" width="44" height="39" rx="2" fill="#102133" stroke="#EF343E" stroke-width="1"/><line x1="61" y1="18" x2="92" y2="18" stroke="#F5C343" stroke-width="1" opacity="1"/><circle cx="65" cy="34" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="77" cy="34" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="89" cy="34" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><rect x="104" y="9" width="44" height="39" rx="2" fill="#102133" stroke="#19B9FF" stroke-width="1"/><line x1="110" y1="18" x2="141" y2="18" stroke="#F5C343" stroke-width="1" opacity="1"/><circle cx="114" cy="34" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><circle cx="126" cy="34" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><circle cx="138" cy="34" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><rect x="6" y="53" width="44" height="39" rx="2" fill="#102133" stroke="#EF343E" stroke-width="1"/><line x1="12" y1="62" x2="43" y2="62" stroke="#F5C343" stroke-width="1" opacity="1"/><circle cx="16" cy="78" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="28" cy="78" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="40" cy="78" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><rect x="55" y="53" width="44" height="39" rx="2" fill="#102133" stroke="#19B9FF" stroke-width="1"/><line x1="61" y1="62" x2="92" y2="62" stroke="#F5C343" stroke-width="1" opacity="1"/><circle cx="65" cy="78" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><circle cx="77" cy="78" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><circle cx="89" cy="78" r="4" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><rect x="104" y="53" width="44" height="39" rx="2" fill="#102133" stroke="#EF343E" stroke-width="1"/><line x1="110" y1="62" x2="141" y2="62" stroke="#F5C343" stroke-width="1" opacity="1"/><circle cx="114" cy="78" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="126" cy="78" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><circle cx="138" cy="78" r="4" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/></g></g>
+<rect x="53" y="27" rx="2" width="33" height="5" fill="#F5C343"/><text x="95" y="35" font-size="15" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" letter-spacing="3">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="64" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="78" letter-spacing="2" font-weight="800" fill="#F7FAFF">MODULAR</text>
+<text x="67" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1.7" font-weight="600" fill="#B8C9DD">HYBRID DSP / RESONANCE / FM / WAV</text>
+<rect x="66" y="204" width="370" height="2" fill="#19B9FF"/>
+<rect x="978" y="40" width="173" height="123" rx="2" fill="#0C1420" stroke="#EF343E" stroke-width="2" stroke-opacity=".6"/>
+<text x="1001" y="93" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" letter-spacing="1.3" fill="#E9F4FF">ANKS</text>
+<path d="M1002 108H1131" stroke="#19B9FF" stroke-width="5"/><text x="1002" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="10" fill="#19B9FF">LABS</text>
+<text x="986" y="199" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#F5C343" letter-spacing="1">SYNTH · ALPHA</text>
+<rect y="249" width="1200" height="11" fill="#19B9FF"/><rect x="880" y="249" width="142" height="11" fill="#F5C343"/><rect x="1022" y="249" width="178" height="11" fill="#EF343E"/>
 </svg>
