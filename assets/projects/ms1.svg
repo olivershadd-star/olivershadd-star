@@ -1,45 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="MS1 - illustration technique : WAVETABLE SYNTH / VST3">
-<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
-<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
-<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
-<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700" letter-spacing="1.7">ANKS LABS // AUDIO DEVELOPMENT</text>
-<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="72" font-weight="800" >MS1</text>
-<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700" letter-spacing="1.3">WAVETABLE SYNTH / VST3</text>
-<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
-<rect x="505" y="24" width="516" height="166" rx="8" fill="#101D2B" stroke="#19B9FF" stroke-width="2"/>
-<text x="525" y="45" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="700" >OSCILLATOR A</text>
-<text x="770" y="45" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="700" >OSCILLATOR B</text>
-<rect x="527" y="54" width="211" height="74" rx="4" fill="#0C1623" stroke="#304A64" stroke-width="1"/>
-<polyline points="535.0,91.0 537.5,84.0 539.9,77.8 542.4,73.2 544.8,70.4 547.3,69.6 549.7,70.6 552.1,72.9 554.6,76.0 557.0,79.1 559.5,81.9 562.0,84.1 564.4,85.6 566.9,86.8 569.3,88.0 571.8,89.6 574.2,92.1 576.6,95.5 579.1,99.7 581.5,104.4 584.0,108.9 586.5,112.6 588.9,114.8 591.4,115.0 593.8,113.0 596.3,109.0 598.7,103.3 601.1,96.6 603.6,89.8 606.0,83.7 608.5,78.8 611.0,75.6 613.4,74.1 615.9,74.0 618.3,75.0 620.8,76.5 623.2,77.9 625.6,79.0 628.1,79.6 630.5,79.9 633.0,80.2 635.5,81.0 637.9,82.6 640.4,85.5 642.8,89.7 645.3,95.0 647.7,100.9 650.1,106.7 652.6,111.6 655.0,115.0 657.5,116.3 660.0,115.3 662.4,112.2 664.9,107.3 667.3,101.5 669.8,95.4 672.2,89.8 674.6,85.3 677.1,82.0 679.5,80.1 682.0,79.3 684.5,79.1 686.9,79.1 689.4,78.8 691.8,78.1 694.3,77.0 696.7,75.8 699.1,74.9 701.6,74.8 704.0,76.1 706.5,79.0 709.0,83.5 711.4,89.4 713.9,96.0 716.3,102.7 718.8,108.5 721.2,112.9 723.6,115.2 726.1,115.3 728.5,113.3" fill="none" stroke="#19B9FF" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="774" y="54" width="211" height="74" rx="4" fill="#0C1623" stroke="#304A64" stroke-width="1"/>
-<polyline points="782.0,91.0 784.5,90.0 786.9,87.3 789.4,83.5 791.8,79.4 794.3,76.1 796.7,74.4 799.1,74.9 801.6,77.9 804.0,83.2 806.5,90.0 809.0,97.5 811.4,104.5 813.9,110.0 816.3,113.3 818.8,113.9 821.2,111.9 823.6,107.8 826.1,102.5 828.5,96.9 831.0,92.1 833.5,88.8 835.9,87.5 838.4,88.2 840.8,90.5 843.3,93.7 845.7,96.7 848.1,98.7 850.6,99.0 853.0,97.1 855.5,93.1 858.0,87.5 860.4,81.0 862.9,74.8 865.3,69.8 867.8,66.9 870.2,66.6 872.6,69.1 875.1,74.0 877.5,80.4 880.0,87.4 882.5,93.9 884.9,98.9 887.4,101.9 889.8,102.6 892.3,101.2 894.7,98.3 897.1,94.9 899.6,91.8 902.0,89.9 904.5,89.9 907.0,91.9 909.4,95.5 911.9,100.3 914.3,105.2 916.8,109.3 919.2,111.7 921.6,111.6 924.1,108.9 926.5,103.9 929.0,97.1 931.5,89.5 933.9,82.2 936.4,76.3 938.8,72.5 941.3,71.3 943.7,72.5 946.1,75.8 948.6,80.2 951.0,84.9 953.5,88.7 956.0,91.1 958.4,91.5 960.9,90.0 963.3,87.1 965.8,83.5 968.2,80.1 970.6,78.0 973.1,77.8 975.5,79.9" fill="none" stroke="#EF343E" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="527" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="549" y="145" width="20" height="37" rx="1" fill="#183044" stroke="#152536" stroke-width="1"/>
-<rect x="561" y="145" width="13" height="20" rx="1" fill="#152536" stroke="#152536" stroke-width="0"/>
-<rect x="571" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="593" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="615" y="145" width="20" height="37" rx="1" fill="#183044" stroke="#152536" stroke-width="1"/>
-<rect x="627" y="145" width="13" height="20" rx="1" fill="#152536" stroke="#152536" stroke-width="0"/>
-<rect x="637" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="659" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="681" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="703" y="145" width="20" height="37" rx="1" fill="#183044" stroke="#152536" stroke-width="1"/>
-<rect x="715" y="145" width="13" height="20" rx="1" fill="#152536" stroke="#152536" stroke-width="0"/>
-<rect x="725" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="747" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="769" y="145" width="20" height="37" rx="1" fill="#183044" stroke="#152536" stroke-width="1"/>
-<rect x="781" y="145" width="13" height="20" rx="1" fill="#152536" stroke="#152536" stroke-width="0"/>
-<rect x="791" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="813" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="835" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="857" y="145" width="20" height="37" rx="1" fill="#183044" stroke="#152536" stroke-width="1"/>
-<rect x="869" y="145" width="13" height="20" rx="1" fill="#152536" stroke="#152536" stroke-width="0"/>
-<rect x="879" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="901" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="923" y="145" width="20" height="37" rx="1" fill="#183044" stroke="#152536" stroke-width="1"/>
-<rect x="935" y="145" width="13" height="20" rx="1" fill="#152536" stroke="#152536" stroke-width="0"/>
-<rect x="945" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<rect x="967" y="145" width="20" height="37" rx="1" fill="#F1F4F7" stroke="#152536" stroke-width="1"/>
-<text x="877" y="141" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="10" font-weight="600" >WAVETABLE</text>
-<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="MS1 — WAVETABLE SYNTHESIS / JUCE / VST3">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0.1" y2="0.8"><stop stop-color="#090C13"/><stop offset=".6" stop-color="#171B26"/><stop offset="1" stop-color="#090D15"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#273648"/></pattern></defs>
+<rect width="1200" height="260" fill="url(#bg)"/><rect width="1200" height="260" fill="url(#dots)" opacity=".78"/>
+<path d="M0 0H16L109 260H92Z" fill="#19B9FF" opacity=".88"/><path d="M25 0H32L121 260H114Z" fill="#F5C343" opacity=".85"/>
+<path d="M20 220L322 220L357 196H570L596 216H730L780 169H914L967 121H1200" fill="none" stroke="#EF343E" stroke-width="3" opacity=".4"/>
+<path d="M460 21H630L663 55H836L870 29H1200" fill="none" stroke="#19B9FF" stroke-width="2" opacity=".38"/>
+<circle cx="596" cy="216" r="5" fill="#19B9FF"/><circle cx="780" cy="169" r="4" fill="#F5C343"/><circle cx="967" cy="121" r="4" fill="#EF343E"/>
+<path d="M981 0V260M1002 0V260" stroke="#19B9FF" opacity=".13" stroke-width="2"/>
+<g transform="translate(807 70) scale(.98)"><g transform="translate(0 0)" opacity=".95"><rect x="6" y="11" width="140" height="51" rx="3" fill="#0e2031" stroke="#2e526d" stroke-width="1"/><path d="M11.0 36.0 L13.1 32.3 L15.2 28.8 L17.2 25.7 L19.3 23.2 L21.4 21.3 L23.5 20.3 L25.6 20.0 L27.6 20.6 L29.7 22.0 L31.8 23.9 L33.9 26.4 L36.0 29.3 L38.0 32.2 L40.1 35.2 L42.2 38.0 L44.3 40.4 L46.4 42.3 L48.4 43.7 L50.5 44.5 L52.6 44.7 L54.7 44.4 L56.8 43.6 L58.8 42.5 L60.9 41.2 L63.0 39.8 L65.1 38.4 L67.2 37.3 L69.2 36.4 L71.3 35.8 L73.4 35.6 L75.5 35.8 L77.6 36.3 L79.6 37.1 L81.7 38.0 L83.8 39.0 L85.9 39.9 L88.0 40.5 L90.0 40.8 L92.1 40.7 L94.2 40.1 L96.3 39.1 L98.4 37.6 L100.4 35.7 L102.5 33.5 L104.6 31.1 L106.7 28.7 L108.8 26.5 L110.8 24.6 L112.9 23.2 L115.0 22.4 L117.1 22.2 L119.2 22.8 L121.2 24.2 L123.3 26.3 L125.4 28.9 L127.5 32.1 L129.6 35.6 L131.6 39.2 L133.7 42.7 L135.8 46.0 L137.9 48.8 L140.0 50.9 L142.0 52.4 L144.1 52.9" fill="none" stroke="#19B9FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="21" cy="79" r="8" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><line x1="21" y1="79" x2="25" y2="73" stroke="#F5C343" stroke-width="1.8" opacity="1"/><circle cx="48" cy="79" r="8" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><line x1="48" y1="79" x2="52" y2="73" stroke="#F5C343" stroke-width="1.8" opacity="1"/><circle cx="75" cy="79" r="8" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><line x1="75" y1="79" x2="79" y2="73" stroke="#F5C343" stroke-width="1.8" opacity="1"/><circle cx="102" cy="79" r="8" fill="#0d1b2a" stroke="#EF343E" stroke-width="1.5"/><line x1="102" y1="79" x2="106" y2="73" stroke="#F5C343" stroke-width="1.8" opacity="1"/><circle cx="129" cy="79" r="8" fill="#0d1b2a" stroke="#19B9FF" stroke-width="1.5"/><line x1="129" y1="79" x2="133" y2="73" stroke="#F5C343" stroke-width="1.8" opacity="1"/></g></g>
+<rect x="53" y="27" rx="2" width="33" height="5" fill="#F5C343"/><text x="95" y="35" font-size="15" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" letter-spacing="3">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="64" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="78" letter-spacing="2" font-weight="800" fill="#F7FAFF">MS1</text>
+<text x="67" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1.7" font-weight="600" fill="#B8C9DD">WAVETABLE SYNTHESIS / JUCE / VST3</text>
+<rect x="66" y="204" width="370" height="2" fill="#19B9FF"/>
+<rect x="978" y="40" width="173" height="123" rx="2" fill="#0C1420" stroke="#EF343E" stroke-width="2" stroke-opacity=".6"/>
+<text x="1001" y="93" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" letter-spacing="1.3" fill="#E9F4FF">ANKS</text>
+<path d="M1002 108H1131" stroke="#19B9FF" stroke-width="5"/><text x="1002" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="10" fill="#19B9FF">LABS</text>
+<text x="986" y="199" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#F5C343" letter-spacing="1">SYNTH · EXPERIMENT</text>
+<rect y="249" width="1200" height="11" fill="#19B9FF"/><rect x="880" y="249" width="142" height="11" fill="#F5C343"/><rect x="1022" y="249" width="178" height="11" fill="#EF343E"/>
 </svg>
