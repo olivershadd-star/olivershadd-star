@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="ANKS FX SUITE - illustration technique : 23 EFFECTS / AUDIO PROCESSING">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
+<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
+<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
+<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="51" font-weight="800">ANKS FX SUITE</text>
+<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700">23 EFFECTS / AUDIO PROCESSING</text>
+<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="493" y="25" width="531" height="170" rx="7" fill="#101D2B" stroke="#315C7E" stroke-width="1.2"/>
+<text x="514" y="45" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="600">ANKS FX SUITE / MULTI-EFFECT RACK</text>
+<rect x="514" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="520" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">SAT</text>
+<rect x="520" y="77" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="576" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="582" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">FILT</text>
+<rect x="582" y="77" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="638" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="644" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">MOD</text>
+<rect x="644" y="77" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="700" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="706" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">DLY</text>
+<rect x="706" y="77" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="762" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="768" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">CRSH</text>
+<rect x="768" y="77" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="824" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="830" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">STUT</text>
+<rect x="830" y="77" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="886" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="892" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">EQ</text>
+<rect x="892" y="77" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="948" y="57" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="954" y="70" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">AMP</text>
+<rect x="954" y="77" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="514" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="520" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">SAT</text>
+<rect x="520" y="117" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="576" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="582" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">FILT</text>
+<rect x="582" y="117" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="638" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="644" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">MOD</text>
+<rect x="644" y="117" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="700" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="706" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">DLY</text>
+<rect x="706" y="117" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="762" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="768" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">CRSH</text>
+<rect x="768" y="117" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="824" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="830" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">STUT</text>
+<rect x="830" y="117" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="886" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="892" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">EQ</text>
+<rect x="892" y="117" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="948" y="97" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="954" y="110" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">AMP</text>
+<rect x="954" y="117" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="514" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="520" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">SAT</text>
+<rect x="520" y="157" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="576" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="582" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">FILT</text>
+<rect x="582" y="157" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="638" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="644" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">MOD</text>
+<rect x="644" y="157" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="700" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="706" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">DLY</text>
+<rect x="706" y="157" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect x="762" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#F5C343" stroke-width="1.2"/>
+<text x="768" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">CRSH</text>
+<rect x="768" y="157" width="39" height="4" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1.2"/>
+<rect x="824" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#EF343E" stroke-width="1.2"/>
+<text x="830" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">STUT</text>
+<rect x="830" y="157" width="39" height="4" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="886" y="137" width="55" height="33" rx="3" fill="#132436" stroke="#19B9FF" stroke-width="1.2"/>
+<text x="892" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="8" font-weight="600">EQ</text>
+<rect x="892" y="157" width="39" height="4" rx="1" fill="#19B9FF" stroke="#19B9FF" stroke-width="1.2"/>
+<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+</svg>
