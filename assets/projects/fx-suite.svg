@@ -1,16 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="ANKS FX SUITE — 23 EFFECTS IN DEVELOPMENT / UNIFIED FX LAB">
-<defs><linearGradient id="bg" x1="0" x2="1" y1=".1" y2=".8"><stop stop-color="#090C13"/><stop offset=".6" stop-color="#171B26"/><stop offset="1" stop-color="#090D15"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#273648"/></pattern></defs>
-<rect width="1200" height="260" fill="url(#bg)"/><rect width="1200" height="260" fill="url(#dots)" opacity=".8"/>
-<path d="M0 0H16L109 260H92Z" fill="#EF343E" opacity=".87"/><path d="M25 0H32L121 260H114Z" fill="#F5C343" opacity=".86"/>
-<path d="M20 220L322 220L357 196H570L596 216H730L780 169H914L967 121H1200" fill="none" stroke="#EF343E" stroke-width="3" opacity=".37"/>
-<path d="M460 21H630L663 55H836L870 29H1200" fill="none" stroke="#19B9FF" stroke-width="2" opacity=".37"/>
-<circle cx="596" cy="216" r="5" fill="#19B9FF"/><circle cx="780" cy="169" r="4" fill="#F5C343"/>
-<rect x="53" y="27" rx="2" width="33" height="5" fill="#F5C343"/><text x="95" y="35" font-size="15" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" letter-spacing="3">ANKS LABS // AUDIO DEVELOPMENT</text>
-<text x="64" y="126" font-family="Segoe UI,Arial,sans-serif" font-size="54" letter-spacing="1" font-weight="800" fill="#F7FAFF">ANKS FX SUITE</text>
-<text x="67" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1.5" font-weight="600" fill="#B8C9DD">23 EFFECTS IN DEVELOPMENT / UNIFIED FX LAB</text>
-<rect x="66" y="204" width="465" height="2" fill="#EF343E"/>
-<path d="M870 49h295v160H870" fill="none" stroke="#19B9FF" stroke-width="1.5" opacity=".22"/>
-<g transform="translate(291 35) scale(.72)"><g transform="translate(934 68)"><rect x="0" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="-1" y="20" width="23" height="12" rx="4" fill="#EF343E"/><rect x="39" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="38" y="51" width="23" height="12" rx="4" fill="#19B9FF"/><rect x="78" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="77" y="82" width="23" height="12" rx="4" fill="#EF343E"/><rect x="117" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="116" y="20" width="23" height="12" rx="4" fill="#19B9FF"/><rect x="156" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="155" y="51" width="23" height="12" rx="4" fill="#EF343E"/></g></g>
-<text x="934" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#F5C343" letter-spacing="1.5">FX / WORK IN PROGRESS</text>
-<rect y="249" width="1200" height="11" fill="#19B9FF"/><rect x="880" y="249" width="142" height="11" fill="#F5C343"/><rect x="1022" y="249" width="178" height="11" fill="#EF343E"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="ANKS FX SUITE — 23 AUDIO EFFECTS / VST3">
+<defs><linearGradient id="bg" x1="0" x2="1" y1=".1" y2=".8"><stop stop-color="#090C13"/><stop offset=".6" stop-color="#171B26"/><stop offset="1" stop-color="#090D15"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#273648"/></pattern><clipPath id="inset"><rect x="57" y="34" width="294" height="170" rx="1"/></clipPath></defs>
+<rect width="1200" height="260" fill="url(#bg)"/><rect width="1200" height="260" fill="url(#dots)" opacity=".78"/>
+<path d="M20 220L322 220L357 196H570L596 216H730L780 169H914L967 121H1200" fill="none" stroke="#EF343E" stroke-width="3" opacity=".58"/>
+<path d="M460 21H630L663 55H836L870 29H1200" fill="none" stroke="#EF343E" stroke-width="2" opacity=".48"/>
+<path d="M360 76H490L520 98H790L810 79H1200" fill="none" stroke="#EF343E" stroke-width="2" opacity=".32"/>
+<g fill="#EF343E"><circle cx="596" cy="216" r="5"/><circle cx="780" cy="169" r="4"/><circle cx="967" cy="121" r="4"/><circle cx="870" cy="29" r="4"/><circle cx="810" cy="79" r="3"/></g>
+<rect x="50" y="28" width="307" height="182" rx="2" fill="#0C1420" stroke="#EF343E" stroke-width="3"/>
+<g clip-path="url(#inset)"><g transform="translate(92 45) scale(1.16) translate(-934 -68)"><g transform="translate(934 68)"><rect x="0" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="-1" y="20" width="23" height="12" rx="4" fill="#EF343E"/><rect x="39" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="38" y="51" width="23" height="12" rx="4" fill="#19B9FF"/><rect x="78" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="77" y="82" width="23" height="12" rx="4" fill="#EF343E"/><rect x="117" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="116" y="20" width="23" height="12" rx="4" fill="#19B9FF"/><rect x="156" y="0" width="21" height="130" rx="10" fill="#1D2B3A" stroke="#294456"/><rect x="155" y="51" width="23" height="12" rx="4" fill="#EF343E"/></g></g></g>
+<text x="53" y="240" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#E8F0FA" letter-spacing="1">FX DEVELOPMENT</text>
+<text x="415" y="133" font-family="Segoe UI,Arial,sans-serif" font-size="51" letter-spacing="1.5" font-weight="800" fill="#F7FAFF">ANKS FX SUITE</text>
+<text x="418" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1" font-weight="600" fill="#B8C9DD">23 AUDIO EFFECTS / VST3</text>
+<path d="M418 196H925" stroke="#EF343E" stroke-width="3"/>
+<rect y="252" width="1200" height="8" fill="#EF343E"/>
 </svg>
