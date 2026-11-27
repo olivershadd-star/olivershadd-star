@@ -71,7 +71,9 @@
 
 *Hybrid synthesis and sound-design laboratory with six effect slots and thirteen DSP treatments.*
 
-<sub>**Version 1.4 alpha 3 · expérimental** · [Dépôt & documentation](https://github.com/olivershadd-star/MODULAR) · [Builds & tests](https://github.com/olivershadd-star/MODULAR/actions)</sub>
+<a href="https://github.com/olivershadd-star/MODULAR/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/MODULAR?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de MODULAR / Download the latest MODULAR" /></a>
+
+<sub>**Expérimental** · [Dépôt & documentation](https://github.com/olivershadd-star/MODULAR) · [Toutes les versions](https://github.com/olivershadd-star/MODULAR/releases)</sub>
 
 
 ---
@@ -82,7 +84,9 @@
 
 *Original semi-modular synth with virtual patch cables, CV modulation, sequencer and a separate percussion voice.*
 
-<sub>**Prototype v0.5 · tests Windows documentés** · [Dépôt](https://github.com/olivershadd-star/MOOGER) · [Builds de test](https://github.com/olivershadd-star/MOOGER/actions)</sub>
+<a href="https://github.com/olivershadd-star/MOOGER/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/MOOGER?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de MOOGER / Download the latest MOOGER" /></a>
+
+<sub>**Prototype · tests Windows documentés** · [Dépôt](https://github.com/olivershadd-star/MOOGER) · [Toutes les versions](https://github.com/olivershadd-star/MOOGER/releases)</sub>
 
 
 ---
@@ -93,7 +97,9 @@
 
 *Dual oscillator-swarm synthesis with four-scene XY morphing and expressive timbral motion.*
 
-<sub>**Prototype · validation complète Windows/VST3 à poursuivre** · [Dépôt & architecture](https://github.com/olivershadd-star/SWARM)</sub>
+<a href="https://github.com/olivershadd-star/SWARM/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/SWARM?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de SWARM / Download the latest SWARM" /></a>
+
+<sub>**Prototype · validation complète Windows/VST3 à poursuivre** · [Dépôt & architecture](https://github.com/olivershadd-star/SWARM) · [Toutes les versions](https://github.com/olivershadd-star/SWARM/releases)</sub>
 
 
 ---
@@ -106,7 +112,9 @@
 
 *A Max for Live MIDI idea generator: rhythmic and melodic lines, guided variation and Ableton clip writing.*
 
-<sub>**Alpha · vérifier compatibilité Max for Live et consignes d'installation** · [Dépôt & appareil](https://github.com/olivershadd-star/MLG-Alpha)</sub>
+<a href="https://github.com/olivershadd-star/MLG-Alpha/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/MLG-Alpha?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de MLG ALPHA / Download the latest MLG ALPHA" /></a>
+
+<sub>**Alpha · Max for Live (+ VST3 optionnel dans le même ZIP)** · [Dépôt & mode d'emploi](https://github.com/olivershadd-star/MLG-Alpha) · [Toutes les versions](https://github.com/olivershadd-star/MLG-Alpha/releases)</sub>
 
 
 ---
@@ -117,7 +125,9 @@
 
 *Draw up to eight MIDI CC automation curves in a dedicated Max for Live editor, with export and editable destinations.*
 
-<sub>**Module en développement · consulter les tests Live du dépôt** · [Dépôt, installation & tests](https://github.com/olivershadd-star/CURVE-EDITOR-M4L)</sub>
+<a href="https://github.com/olivershadd-star/CURVE-EDITOR-M4L/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/CURVE-EDITOR-M4L?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de CURVE EDITOR M4L / Download the latest CURVE EDITOR M4L" /></a>
+
+<sub>**Module Max for Live en développement** · [Dépôt, installation & tests](https://github.com/olivershadd-star/CURVE-EDITOR-M4L) · [Toutes les versions](https://github.com/olivershadd-star/CURVE-EDITOR-M4L/releases)</sub>
 
 
 ---
@@ -130,7 +140,9 @@
 
 *A unified home for twenty-three effects under development, including the Triple Drive distortion engine.*
 
-<sub>**Chantier de suite FX · dépôt public, pas de pack complet confirmé** · [Dépôt de la suite](https://github.com/olivershadd-star/ANKS-FX-SUITE)</sub>
+<a href="https://github.com/olivershadd-star/ANKS-FX-SUITE/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/ANKS-FX-SUITE?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de ANKS FX SUITE / Download the latest ANKS FX SUITE" /></a>
+
+<sub>**Suite FX en chantier · les 23 effets dans un seul ZIP** · [Dépôt de la suite](https://github.com/olivershadd-star/ANKS-FX-SUITE) · [Toutes les versions](https://github.com/olivershadd-star/ANKS-FX-SUITE/releases)</sub>
 
 
 ---
@@ -141,7 +153,9 @@
 
 *Sequenced two-deck beat juggling, with timed cuts, scratch-like movements and four editable patterns.*
 
-<sub>**Prototype VST3 · builds documentés dans Actions** · [Dépôt & fonctionnement](https://github.com/olivershadd-star/BEAT-JUGGLING)</sub>
+<a href="https://github.com/olivershadd-star/BEAT-JUGGLING/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/BEAT-JUGGLING?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de BEAT JUGGLING / Download the latest BEAT JUGGLING" /></a>
+
+<sub>**Prototype VST3 + application** · [Dépôt & fonctionnement](https://github.com/olivershadd-star/BEAT-JUGGLING) · [Toutes les versions](https://github.com/olivershadd-star/BEAT-JUGGLING/releases)</sub>
 
 
 ---
@@ -152,7 +166,9 @@
 
 *A rhythmic fragment-capture and repeat processor, including pitch-step patterns.*
 
-<sub>**Prototype 0.3.0 · validation Windows/Ableton à poursuivre** · [Dépôt & documentation](https://github.com/olivershadd-star/FRAGMENT-ENGINE)</sub>
+<a href="https://github.com/olivershadd-star/FRAGMENT-ENGINE/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/FRAGMENT-ENGINE?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de FRAGMENT ENGINE / Download the latest FRAGMENT ENGINE" /></a>
+
+<sub>**Prototype · validation Windows/Ableton à poursuivre** · [Dépôt & documentation](https://github.com/olivershadd-star/FRAGMENT-ENGINE) · [Toutes les versions](https://github.com/olivershadd-star/FRAGMENT-ENGINE/releases)</sub>
 
 
 ---
@@ -161,11 +177,13 @@
 
 <a href="https://github.com/olivershadd-star/STAKER"><img src="assets/projects/stacker.svg" width="100%" alt="STACKER — illustration technique ANKS Labs" /></a>
 
-**STACKER** — **Empileur autonome de loops**, ni synthé ni DAW complet. Seize lignes avec volumes, effets et mise au tempo, séquenceur de relances, blocs A–H, composition par empilement et export **WAV ou projet Ableton**. Le dépôt s'appelle encore `STAKER`, tandis que le projet est présenté ici sous le nom **Stacker**. Une déclinaison mobile est envisagée.
+**STACKER** — **Empileur autonome de loops**, ni synthé ni DAW complet. Seize lignes avec volumes, effets et mise au tempo, séquenceur de relances, blocs A–H, composition par empilement et export **WAV ou projet Ableton**. Le dépôt s'appelle encore `STAKER` et le programme `Empileur.exe`, tandis que le projet est présenté ici sous le nom **Stacker**. Une déclinaison mobile est envisagée.
 
 *A standalone loop-stacking workspace with sixteen lanes, pattern blocks and Ableton project export. A mobile adaptation is planned, not released.*
 
-<sub>**Application Windows en développement** · [Dépôt & compilation](https://github.com/olivershadd-star/STAKER)</sub>
+<a href="https://github.com/olivershadd-star/STAKER/releases/latest"><img src="https://img.shields.io/github/v/release/olivershadd-star/STAKER?include_prereleases&sort=date&display_name=tag&style=for-the-badge&logo=github&logoColor=F7FAFF&label=T%C3%89L%C3%89CHARGER%20%2F%20DOWNLOAD&labelColor=10151E&color=EF343E" alt="Télécharger la dernière version de STACKER / Download the latest STACKER" /></a>
+
+<sub>**Application Windows en développement** · [Dépôt & mode d'emploi](https://github.com/olivershadd-star/STAKER) · [Toutes les versions](https://github.com/olivershadd-star/STAKER/releases)</sub>
 
 
 ---
