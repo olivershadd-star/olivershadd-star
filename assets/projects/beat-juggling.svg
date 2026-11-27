@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="BEAT JUGGLING - illustration technique : TWO DECKS / SEQUENCED CUTS">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
+<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
+<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
+<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="51" font-weight="800">BEAT JUGGLING</text>
+<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700">TWO DECKS / SEQUENCED CUTS</text>
+<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1.2"/>
+<rect x="493" y="25" width="531" height="170" rx="7" fill="#101D2B" stroke="#315C7E" stroke-width="1.2"/>
+<text x="513" y="44" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="600">BEAT JUGGLING / TWO DECKS</text>
+<circle cx="645" cy="117" r="65" fill="#101D2D" stroke="#19B9FF" stroke-width="2"/>
+<circle cx="645" cy="117" r="43" fill="#101D2D" stroke="#19B9FF" stroke-width="2"/>
+<circle cx="645" cy="117" r="20" fill="#101D2D" stroke="#19B9FF" stroke-width="2"/>
+<circle cx="645" cy="117" r="6" fill="#101D2D" stroke="#F5C343" stroke-width="2"/>
+<path d="M645 117 L693 75" stroke="#F5C343" stroke-width="2.5"/>
+<circle cx="820" cy="117" r="65" fill="#101D2D" stroke="#EF343E" stroke-width="2"/>
+<circle cx="820" cy="117" r="43" fill="#101D2D" stroke="#EF343E" stroke-width="2"/>
+<circle cx="820" cy="117" r="20" fill="#101D2D" stroke="#EF343E" stroke-width="2"/>
+<circle cx="820" cy="117" r="6" fill="#101D2D" stroke="#F5C343" stroke-width="2"/>
+<path d="M820 117 L868 75" stroke="#F5C343" stroke-width="2.5"/>
+<rect x="530" y="171" width="13" height="9" rx="1" fill="#EF343E" stroke="none" stroke-width="1.2"/>
+<rect x="548" y="171" width="13" height="9" rx="1" fill="#19B9FF" stroke="none" stroke-width="1.2"/>
+<rect x="566" y="171" width="13" height="9" rx="1" fill="#EF343E" stroke="none" stroke-width="1.2"/>
+<rect x="584" y="171" width="13" height="9" rx="1" fill="#19B9FF" stroke="none" stroke-width="1.2"/>
+<rect x="602" y="171" width="13" height="9" rx="1" fill="#EF343E" stroke="none" stroke-width="1.2"/>
+<text x="560" y="58" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="15" font-weight="600">L / R</text>
+<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+</svg>
