@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" role="img" aria-label="KICK - illustration technique : DRUM MACHINE / SEQUENCER / WINDOWS">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070B12"/><stop offset=".7" stop-color="#111B2B"/><stop offset="1" stop-color="#08111D"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1B2A3B" stroke-width=".6"/></pattern></defs>
+<rect width="1080" height="220" fill="url(#bg)"/><rect width="1080" height="220" fill="url(#grid)" opacity=".55"/>
+<path d="M0 0 H10 L80 220 H68 Z" fill="#EF343E"/><path d="M17 0 H23 L93 220 H88 Z" fill="#F5C343" opacity=".87"/>
+<text x="48" y="33" font-family="Segoe UI,Arial,sans-serif" fill="#EF343E" font-size="12" font-weight="700" letter-spacing="1.7">ANKS LABS // AUDIO DEVELOPMENT</text>
+<text x="49" y="109" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="72" font-weight="800" >KICK</text>
+<text x="50" y="150" font-family="Segoe UI,Arial,sans-serif" fill="#19B9FF" font-size="13" font-weight="700" letter-spacing="1.3">DRUM MACHINE / SEQUENCER / WINDOWS</text>
+<rect x="50" y="171" width="395" height="3" rx="1" fill="#EF343E" stroke="#EF343E" stroke-width="1"/>
+<rect x="495" y="28" width="525" height="165" rx="8" fill="#101D2B" stroke="#19B9FF" stroke-width="2"/>
+<text x="515" y="46" font-family="Segoe UI,Arial,sans-serif" fill="#F5C343" font-size="11" font-weight="700" >KICK / SEQUENCER</text>
+<rect x="518" y="58" width="31" height="20" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="1.3"/>
+<rect x="557" y="58" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="596" y="58" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="635" y="58" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="518" y="85" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="557" y="85" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="596" y="85" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="635" y="85" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="518" y="112" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="557" y="112" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="596" y="112" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="635" y="112" width="31" height="20" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="1.3"/>
+<rect x="518" y="139" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="557" y="139" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<rect x="596" y="139" width="31" height="20" rx="2" fill="#EF343E" stroke="#EF343E" stroke-width="1.3"/>
+<rect x="635" y="139" width="31" height="20" rx="2" fill="#243A4E" stroke="#19B9FF" stroke-width="1.3"/>
+<text x="713" y="73" font-family="Segoe UI,Arial,sans-serif" fill="#EEF6FF" font-size="11" font-weight="600" >PATTERNS  A  B  C  D  E  F  G  H</text>
+<rect x="711" y="104" width="13" height="16" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1"/>
+<rect x="729" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="747" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="765" y="104" width="13" height="16" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1"/>
+<rect x="783" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="801" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="819" y="104" width="13" height="16" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1"/>
+<rect x="837" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="855" y="104" width="13" height="16" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1"/>
+<rect x="873" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="891" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="909" y="104" width="13" height="16" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1"/>
+<rect x="927" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="945" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<rect x="963" y="104" width="13" height="16" rx="1" fill="#F5C343" stroke="#F5C343" stroke-width="1"/>
+<rect x="981" y="104" width="13" height="16" rx="1" fill="#25384B" stroke="#365069" stroke-width="1"/>
+<circle cx="721" cy="155" r="10" fill="#0A1019" stroke="#EF343E" stroke-width="2"/>
+<line x1="721" y1="155" x2="727" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="760" cy="155" r="10" fill="#0A1019" stroke="#19B9FF" stroke-width="2"/>
+<line x1="760" y1="155" x2="766" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="799" cy="155" r="10" fill="#0A1019" stroke="#19B9FF" stroke-width="2"/>
+<line x1="799" y1="155" x2="805" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="838" cy="155" r="10" fill="#0A1019" stroke="#EF343E" stroke-width="2"/>
+<line x1="838" y1="155" x2="844" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="877" cy="155" r="10" fill="#0A1019" stroke="#19B9FF" stroke-width="2"/>
+<line x1="877" y1="155" x2="883" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="916" cy="155" r="10" fill="#0A1019" stroke="#19B9FF" stroke-width="2"/>
+<line x1="916" y1="155" x2="922" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="955" cy="155" r="10" fill="#0A1019" stroke="#EF343E" stroke-width="2"/>
+<line x1="955" y1="155" x2="961" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<circle cx="994" cy="155" r="10" fill="#0A1019" stroke="#19B9FF" stroke-width="2"/>
+<line x1="994" y1="155" x2="1000" y2="148" stroke="#F5C343" stroke-width="2" opacity="1"/>
+<text x="711" y="185" font-family="Segoe UI,Arial,sans-serif" fill="#7790A6" font-size="11" font-weight="500" >16 PADS  ·  16 STEPS  ·  MIDI</text>
+<rect y="211" width="1080" height="9" fill="#19B9FF"/><rect x="760" y="211" width="135" height="9" fill="#F5C343"/><rect x="895" y="211" width="185" height="9" fill="#EF343E"/>
+</svg>
