@@ -5,11 +5,15 @@
 <path d="M460 21H630L663 55H836L870 29H1200" fill="none" stroke="#EF343E" stroke-width="2" opacity=".48"/>
 <path d="M360 76H490L520 98H790L810 79H1200" fill="none" stroke="#EF343E" stroke-width="2" opacity=".32"/>
 <g fill="#EF343E"><circle cx="596" cy="216" r="5"/><circle cx="780" cy="169" r="4"/><circle cx="967" cy="121" r="4"/><circle cx="870" cy="29" r="4"/><circle cx="810" cy="79" r="3"/></g>
+<g transform="translate(793 0)">
 <rect x="50" y="28" width="307" height="182" rx="2" fill="#0C1420" stroke="#EF343E" stroke-width="3"/>
 <g clip-path="url(#inset)"><g transform="translate(72 54) scale(.88) translate(-895 -60)"><g fill="none" stroke-width="3"><circle cx="960" cy="125" r="65" stroke="#19B9FF"/><circle cx="960" cy="125" r="36" stroke="#EF343E"/><circle cx="960" cy="125" r="6" stroke="#F5C343"/><circle cx="1100" cy="125" r="65" stroke="#EF343E"/><circle cx="1100" cy="125" r="36" stroke="#19B9FF"/><circle cx="1100" cy="125" r="6" stroke="#F5C343"/><path d="M1028 122l-12 -17m0 17 12 -17" stroke="#F5C343"/></g></g></g>
-<text x="53" y="240" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#E8F0FA" letter-spacing="1">VST3 · PROTOTYPE</text>
+</g>
+<g transform="translate(793 0)"><text x="53" y="240" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#E8F0FA" letter-spacing="1">VST3 · PROTOTYPE</text></g>
+<g transform="translate(-365 0)">
 <text x="415" y="133" font-family="Segoe UI,Arial,sans-serif" font-size="51" letter-spacing="1.5" font-weight="800" fill="#F7FAFF">BEAT JUGGLING</text>
 <text x="418" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1" font-weight="600" fill="#B8C9DD">RHYTHMIC CUTS / TWO DECKS</text>
 <path d="M418 196H925" stroke="#EF343E" stroke-width="3"/>
+</g>
 <rect y="252" width="1200" height="8" fill="#EF343E"/>
 </svg>
